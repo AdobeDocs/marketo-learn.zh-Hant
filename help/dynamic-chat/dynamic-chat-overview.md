@@ -1,11 +1,11 @@
 ---
 title: Dynamic Chat教學課程
-description: 了解Adobe Experience League上的動態聊天。 使用這些教學課程和說明檔案，協助您進一步了解如何使用動態聊天建立個人化對話。
+description: 了解 Adobe Experience League 上的 Dynamic Chat。 使用這些教學課程與文件來更了解如何使用 Dynamic Chat 建立個人化的對話。
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 

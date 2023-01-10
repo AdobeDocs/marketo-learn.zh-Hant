@@ -1,11 +1,11 @@
 ---
 title: Marketo Engage教學課程
-description: 觀看教學課程影片(在 [!DNL Marketo Engage]. 提高您對如何使用行銷自動化功能等內容的了解。
+description: 觀看教學課程影片(在 [!DNL Marketo Engage]. 讓您更了解如何使用行銷自動化功能等。
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 最近添加 [!DNL Marketo Engage] 教學課程：
 
 * **[[!UICONTROL 動態聊天]  教學課程](dynamic-chat/dynamic-chat-overview.md)**
-   _使用這些教學課程和說明檔案，協助您進一步了解如何使用動態聊天建立個人化對話。_
+   _使用這些教學課程與文件來更了解如何使用 Dynamic Chat 建立個人化的對話。_
 
 * **[[!DNL Sales Insight Actions] 教學課程](/help/sales-insight-actions/overview.md)**
    _使用 [!UICONTROL Sales Insight動作] 透過行銷支援的智慧和參與工具，在單一工作流程中加速探礦工作。_
