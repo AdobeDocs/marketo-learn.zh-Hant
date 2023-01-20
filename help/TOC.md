@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
+source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '196'
 ht-degree: 10%
 
 ---
@@ -14,8 +14,6 @@ ht-degree: 10%
 
 + [[!DNL Marketo Engage] 教學課程](overview.md)
 + 跨管道行銷 {#cross-channel-marketing}
-   + [事件](email-marketing/events-learn.md)
-   + [事件逐步說明](email-marketing/events-watch.md)
    + [整合行動行銷](cross-channel-marketing/mobile-marketing-learn.md)
    + [行動行銷逐步說明](cross-channel-marketing/mobile-marketing-watch.md)
    + [社交行銷](cross-channel-marketing/social-marketing-learn.md)
@@ -24,10 +22,8 @@ ht-degree: 10%
    + [網路個人化逐步說明](cross-channel-marketing/web-personalization-watch.md)
    + [SEO和PPC](cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO和PPC逐步說明](cross-channel-marketing/seo-and-ppc-watch.md)
-   + [網路研討會](email-marketing/webinar-learn.md)
-   + [網路研討會逐步說明](email-marketing/webinar-watch.md)
 + 動態聊天 {#dynamic-chat}
-   + [[!UICONTROL 動態聊天] 教學課程](dynamic-chat/dynamic-chat-overview.md)
+   + [Dynamic Chat教學課程](dynamic-chat/dynamic-chat-overview.md)
    + [產品導覽](dynamic-chat/product-tour.md)
    + [安裝](dynamic-chat/setup.md)
    + [Marketo整合](dynamic-chat/marketo-integration.md)
