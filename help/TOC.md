@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '205'
 ht-degree: 10%
 
 ---
@@ -69,7 +69,6 @@ ht-degree: 10%
 + 銷售機會和資料管理 {#lead-and-data-management}
    + [銷售機會分數](lead-and-data-management/lead-scoring-learn.md)
    + [銷售線索評分逐步說明](lead-and-data-management/lead-scoring-watch.md)
-   + [銷售機會分數範例](lead-and-data-management/lead-scoring.md)
    + [訂閱中心](lead-and-data-management/subscription-center-learn.md)
    + [訂閱中心逐步說明](lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 10%
    + [Sales Insight Actions概觀](sales-insight-actions/sales-insight-actions-overview.md)
    + [存取您的Sales Insight Actions例項](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [將銷售活動記錄配置為 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ 隱藏 {#hidden}
+   + [Marketo和莫恰斯領先得分](events/marketo-and-mochas/lead-scoring.md)
+   + [Marketo和Mochas Marketo Measure歸因](events/marketo-and-mochas/attribution.md)
