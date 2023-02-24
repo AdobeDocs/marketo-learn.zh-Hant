@@ -1,8 +1,9 @@
 ---
 title: Marketo Engage教學課程
 description: 觀看教學課程影片(在 [!DNL Marketo Engage]. 讓您更了解如何使用行銷自動化功能等。
+doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: be8279112985cbadab5a87c281ba914956cd6ccc
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 19%
