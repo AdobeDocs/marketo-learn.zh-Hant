@@ -15,7 +15,7 @@ ht-degree: 19%
 瀏覽教學課程程式庫，充分運用 [!DNL Marketo Engage]. 這些教學課程有助於補充 [[!DNL Marketo] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} 協助您進一步了解行銷自動化功能。
 
 <div id="whats-new-section">
-##新增功能
+## 新增功能
 
 最近添加 [!DNL Marketo Engage] 教學課程：
 
