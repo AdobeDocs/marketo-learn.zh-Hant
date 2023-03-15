@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
+source-git-commit: c80c10f57e7f3679a90251251f31ebdc1b271713
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 9%
@@ -38,7 +38,6 @@ ht-degree: 9%
    + [動態和預測性內容](email-marketing/dynamic-and-predictive-content-learn.md)
    + [篩選電子郵件機器人活動 — 設定](filtering-email-bot-activities/setup.md)
 + 跨管道行銷 {#cross-channel-marketing}
-   + [事件逐步說明](events/events-watch.md)
    + [Forms逐步說明](email-marketing/forms-watch.md)
    + [整合行動行銷](cross-channel-marketing/mobile-marketing-learn.md)
    + [行動行銷逐步說明](cross-channel-marketing/mobile-marketing-watch.md)
@@ -46,8 +45,6 @@ ht-degree: 9%
    + [SEO和PPC逐步說明](cross-channel-marketing/seo-and-ppc-watch.md)
    + [社交行銷](cross-channel-marketing/social-marketing-learn.md)
    + [社交行銷逐步說明](cross-channel-marketing/social-marketing-watch.md)
-   + [網路研討會](events/webinar-learn.md)
-   + [網路研討會逐步說明](events/webinar-watch.md)
    + [網路個人化](cross-channel-marketing/web-personalization-learn.md)
    + [網路個人化逐步說明](cross-channel-marketing/web-personalization-watch.md)
 + 動態聊天 {#dynamic-chat}
@@ -77,7 +74,10 @@ ht-degree: 9%
    + [最佳實務](instance-management/best-practice-learn.md)
    + [最佳實務逐步說明](instance-management/best-practice-watch.md)
 + 事件 {#events}
+   + [事件逐步說明](events/events-watch.md)
    + [建立事件方案](events/events-learn.md)
+   + [網路研討會](events/webinar-learn.md)
+   + [網路研討會逐步說明](events/webinar-watch.md)
    + [設計有效的互動式網路研討會](events/design-an-effective-interactive-webinar.md)
 + 隱藏 {#hidden}
    + [Marketo和莫恰斯領先得分](event-recordings/marketo-and-mochas/lead-scoring.md)
