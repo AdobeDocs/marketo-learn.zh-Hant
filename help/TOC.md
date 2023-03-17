@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: c80c10f57e7f3679a90251251f31ebdc1b271713
+source-git-commit: c5b64aee7dad048693b846c65c32f215a767ba29
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 9%
+source-wordcount: '196'
+ht-degree: 10%
 
 ---
 
@@ -79,6 +79,3 @@ ht-degree: 9%
    + [網路研討會](events/webinar-learn.md)
    + [網路研討會逐步說明](events/webinar-watch.md)
    + [設計有效的互動式網路研討會](events/design-an-effective-interactive-webinar.md)
-+ 隱藏 {#hidden}
-   + [Marketo和莫恰斯領先得分](event-recordings/marketo-and-mochas/lead-scoring.md)
-   + [Marketo和Mochas Marketo Measure歸因](event-recordings/marketo-and-mochas/attribution.md)
