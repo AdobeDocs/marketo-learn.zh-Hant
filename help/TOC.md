@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: c5b64aee7dad048693b846c65c32f215a767ba29
+source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 10%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
@@ -57,6 +57,12 @@ ht-degree: 10%
    + [會議預訂](dynamic-chat/meeting-booking.md)
    + [15分鐘後上線](dynamic-chat/go-live-in-15-minutes.md)
    + [在對話中嵌入PDF](dynamic-chat/document-cloud-integration.md)
+   + [在流設計器中搜索](dynamic-chat/search-in-stream-designer.md)
+   + [擷取推斷的屬性](dynamic-chat/capture-inferred-attributes.md)
+   + [對話方塊預覽](dynamic-chat/dialogue-preview.md)
+   + [參與報表](dynamic-chat/engagement-report.md)
+   + [靜態內容的全球化](dynamic-chat/globalization-of-static-content.md)
+   + [角色與權限](dynamic-chat/roles-and-permissions.md)
 + Sales Insight動作 {#sales-insight-actions}
    + [概觀](sales-insight-actions/overview.md)
    + [Sales Insight Actions概觀](sales-insight-actions/sales-insight-actions-overview.md)

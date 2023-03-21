@@ -1,25 +1,26 @@
 ---
-title: 使用動態聊天激活您的Marketo整合
-description: 動態聊天本機整合到Marketo，使您能夠使用聊天對話的上下文來重新確定目標或為潛在客戶打分。
+title: 透過動態聊天啟用Marketo整合
+description: Dynamic Chat原本整合至Marketo，可讓您使用聊天機器人對話的內容來重新定位或評分潛在客戶。
 role: User
 level: Beginner
 kt: 9697
 thumbnail: 340260.jpeg
 exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: 40e21085caf5a23f98607d20930976d1f6fdb469
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# 激活您的Marketo整合 [!UICONTROL 動態聊天]
+# 透過啟用Marketo整合 [!UICONTROL 動態聊天]
 
-[!UICONTROL 動態聊天]  本機整合到 [!DNL Marketo Engage]，使您能夠使用查特對話中的上下文來重新定位或為潛在客戶打分。
+[!UICONTROL 動態聊天]  本機整合至 [!DNL Marketo Engage]，可讓您使用聊天機器人對話的內容來重新定位或評分潛在客戶。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on)
 
-## 更有幫助的視頻
+## 更多實用影片
 
-* [建立和管理個性化對話框](dialogue-management.md)
-* [添加和管理 [!UICONTROL 動態聊天] ](user-management.md)
+* [建立和管理個人化對話方塊](dialogue-management.md)
+* [新增及管理的使用者 [!UICONTROL 動態聊天] ](user-management.md)
+* [擷取推斷的屬性](capture-inferred-attributes.md)
