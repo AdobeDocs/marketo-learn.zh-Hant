@@ -7,9 +7,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12966
 thumbnail: 3416924.jpeg
-source-git-commit: 2d78284e9263654ed23c2e791beaa19197e1c7fe
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 靜態內容的全球化
 
-您可能已經知道如何建立非英語對話框（如果未選中） [此處](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39))。 現在，您甚至可以將靜態/系統內容個人化為您所選擇的語言。
+您可能已經知道如何建立非英語對話(如果沒有， [按一下這裡](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"})。 您可以使用您選擇的語言個人化靜態/系統內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on)
 
