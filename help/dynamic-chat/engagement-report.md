@@ -1,5 +1,5 @@
 ---
-title: 參與報表
+title: 參與報告
 description: 現在查看您的Web訪客與對話方塊互動的趨勢。
 role: User
 level: Beginner
@@ -7,15 +7,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12964
 thumbnail: 3416921.jpeg
-source-git-commit: 40e21085caf5a23f98607d20930976d1f6fdb469
+exl-id: bb4d0570-5790-454c-8787-ae18b6ebe7ce
+source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# 參與報表
+# 參與報告
 
 現在查看您的Web訪客與對話方塊互動的趨勢。
 
