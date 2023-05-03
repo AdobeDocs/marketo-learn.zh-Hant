@@ -6,7 +6,7 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: aad9219bab058bbd3773b2bcac6726f30e6641fd
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 8%
    *我們可以利用Munchkin ID，針對透過動態聊天擷取的每個銷售機會識別並填入推斷的屬性。*
 * **[對話方塊預覽](dialogue-preview.md)**
    *使用「對話方塊」預覽功能，在發佈之前預覽對話方塊非常簡單。*
-* **[參與報表](engagement-report.md)**
+* **[參與報告](engagement-report.md)**
    *了解您的Web訪客與對話方塊互動的趨勢*
 * **[靜態內容的全球化](globalization-of-static-content.md)**
    *您可以將靜態/系統內容個人化為您所選擇的語言。*
