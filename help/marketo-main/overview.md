@@ -3,7 +3,7 @@ title: Marketo Engage教學課程
 description: 觀看  [!DNL Marketo Engage] 的影片教學課程。讓您更了解如何使用行銷自動化功能等。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 21%
@@ -27,7 +27,7 @@ ht-degree: 21%
 * **[[!DNL Sales Insight Actions] 教學課程](/help/sales-insight-actions/overview.md)**
    _使用 [!UICONTROL Sales Insight動作] 透過行銷支援的智慧和參與工具，在單一工作流程中加速探礦工作。_
 
-* **[篩選電子郵件機器人活動教學課程](filtering-email-bot-activities/setup.md)**
+* **[篩選電子郵件機器人活動教學課程](/help/filtering-email-bot-activities/setup.md)**
 
    _此指南可協助您啟用機器人識別電子郵件活動，以及如何篩選及建立排除機器人的促銷活動。_
 
