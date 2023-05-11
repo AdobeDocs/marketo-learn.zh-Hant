@@ -1,20 +1,20 @@
 ---
-title: 如何建立觸發的電子郵件市場活動
-description: 觀察如何建立觸發的智慧市場活動。
+title: 建立觸發的電子郵件行銷活動
+description: 了解如何建立觸發的智慧型行銷活動。
 role: User
 level: Beginner
 kt: 10763
 thumbnail: 345480.jpeg
 exl-id: 0fc3cc78-080c-4d55-a2e5-d07b8fa8305b
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '24'
 ht-degree: 0%
 
 ---
 
-# 如何建立觸發的電子郵件市場活動
+# 建立觸發的電子郵件行銷活動
 
-觀察如何建立觸發的智慧市場活動。
+了解如何建立觸發的智慧型行銷活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on)
