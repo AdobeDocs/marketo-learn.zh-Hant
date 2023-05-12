@@ -4,7 +4,7 @@ description: 制定內容行銷策略，以吸引、贏取和吸引您的受眾�
 role: User
 level: Beginner
 exl-id: 3420976b-d64f-4afe-8ef3-6f8cfd9858fe
-source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
+source-git-commit: f93fceaee1acb03fa8b0c3da6564dd48f5f2448f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
