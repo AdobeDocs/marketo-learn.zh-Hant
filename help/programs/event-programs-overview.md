@@ -7,9 +7,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13258
 thumbnail: 3419622.jpeg
-source-git-commit: 4db7653b7d3f978d47b5f01feee30ef07c6334f3
+source-git-commit: 5fc4567ae77bb4d45509c19d86533645fadca1ed
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,8 @@ ht-degree: 0%
 
 觀看其他視頻以獲取有關此功能的更多幫助：
 * [活動](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [網路研討會](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [網路研討會通過](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
 
 向同行學習如何使用事件程式：
-* [專家客戶部落格：事件程式](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
+* [專家客戶部落格帖子：事件程式](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
 
