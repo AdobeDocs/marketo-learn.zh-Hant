@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: ba26c4920d9dd996642e7bf94c99ceb2d36172d9
+source-git-commit: 1679c237a4e4b75b7894ddadedfd63bd01495408
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 10%
@@ -12,7 +12,7 @@ ht-degree: 10%
 
 # [!DNL Marketo Engage] 教程 {#tutorials}
 
-+ [[!DNL Marketo Engage] 教程](overview.md)
++ [[!DNL Marketo Engage] 教程](/help/_marketo-main/overview.md)
 + 基礎 {#fundamentals}
    + [目標和戰略](/help/fundamentals/goals-and-strategy-learn.md)
    + [組織結構](/help/fundamentals/organizational-structure-learn.md)
