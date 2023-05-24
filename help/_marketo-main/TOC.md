@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 9%
+source-wordcount: '254'
+ht-degree: 8%
 
 ---
 
@@ -19,13 +19,19 @@ ht-degree: 9%
    + [內容營銷](/help/fundamentals/content-marketing-learn.md)
    + [採購員角色](/help/fundamentals/buyer-personas-learn.md)
    + [方案和活動](/help/fundamentals/programs-and-campaigns.md)
-+ 開始使用 {#get-started}
-   + [導航UI](/help/get-started/ui-navigation.md)
+   + [導航UI](/help/fundamentals/ui-navigation.md)
+   + 方案和活動 {#programs}
+      + [瞭解方案和活動](help/programs/understanding-programs-and-campaigns.md)
+      + [預設程式](/help/programs/default-programs.md)
+      + [電子郵件程式](/help/programs/email-programs.md)
+      + [事件程式](/help/programs/event-programs.md)
+      + [項目計畫](/help/programs/engagement-programs.md)
 + 程式 {#programs}
-   + [預設程式概述](/help/programs/default-programs-overview.md)
-   + [電子郵件程式概述](/help/programs/email-programs-overview.md)
-   + [事件程式概述](/help/programs/event-programs-overview.md)
-   + [項目計畫概述](/help/programs/engagement-programs-overview.md)
+   + [瞭解方案和活動](help/programs/understanding-programs-and-campaigns.md)
+   + [預設程式](/help/programs/default-programs.md)
+   + [電子郵件程式](/help/programs/email-programs.md)
+   + [事件程式](/help/programs/event-programs.md)
+   + [項目計畫](/help/programs/engagement-programs.md)
 + 電子郵件行銷 {#email-marketing}
    + [計畫電子郵件](/help/email-marketing/scheduled-email-learn.md)
    + [計畫的電子郵件瀏覽](/help/email-marketing/scheduled-email-watch.md)
