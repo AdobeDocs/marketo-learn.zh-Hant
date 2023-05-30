@@ -2,102 +2,104 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '268'
 ht-degree: 8%
 
 ---
 
 
-# [!DNL Marketo Engage] 教程 {#tutorials}
+# [!DNL Marketo Engage] 教學課程 {#tutorials}
 
-+ [[!DNL Marketo Engage] 教程](/help/_marketo-main/overview.md)
-+ 基礎 {#fundamentals}
-   + [目標和戰略](/help/fundamentals/goals-and-strategy-learn.md)
++ [[!DNL Marketo Engage] 教學課程](/help/_marketo-main/overview.md)
++ 基礎知識 {#fundamentals}
+   + [目標與策略](/help/fundamentals/goals-and-strategy-learn.md)
    + [組織結構](/help/fundamentals/organizational-structure-learn.md)
-   + [內容營銷](/help/fundamentals/content-marketing-learn.md)
-   + [採購員角色](/help/fundamentals/buyer-personas-learn.md)
-   + [方案和活動](/help/fundamentals/programs-and-campaigns.md)
-   + [導航UI](/help/fundamentals/ui-navigation.md)
-   + 方案和活動 {#programs}
-      + [瞭解方案和活動](help/programs/understanding-programs-and-campaigns.md)
+   + [內容行銷](/help/fundamentals/content-marketing-learn.md)
+   + [購買者角色](/help/fundamentals/buyer-personas-learn.md)
+   + [方案與行銷活動](/help/fundamentals/programs-and-campaigns.md)
+   + [導覽UI](/help/fundamentals/ui-navigation.md)
+   + 方案與行銷活動 {#programs}
+      + [瞭解方案和行銷活動](help/programs/understanding-programs-and-campaigns.md)
       + [預設程式](/help/programs/default-programs.md)
       + [電子郵件程式](/help/programs/email-programs.md)
-      + [事件程式](/help/programs/event-programs.md)
-      + [項目計畫](/help/programs/engagement-programs.md)
-+ 程式 {#programs}
-   + [瞭解方案和活動](help/programs/understanding-programs-and-campaigns.md)
+      + [活動計畫](/help/programs/event-programs.md)
+      + [參與計畫](/help/programs/engagement-programs.md)
++ 計畫 {#programs}
+   + [瞭解方案和行銷活動](help/programs/understanding-programs-and-campaigns.md)
    + [預設程式](/help/programs/default-programs.md)
    + [電子郵件程式](/help/programs/email-programs.md)
-   + [事件程式](/help/programs/event-programs.md)
-   + [項目計畫](/help/programs/engagement-programs.md)
+   + [活動計畫](/help/programs/event-programs.md)
+   + [參與計畫](/help/programs/engagement-programs.md)
 + 電子郵件行銷 {#email-marketing}
-   + [計畫電子郵件](/help/email-marketing/scheduled-email-learn.md)
-   + [計畫的電子郵件瀏覽](/help/email-marketing/scheduled-email-watch.md)
-   + [個性化新聞稿](/help/email-marketing/personalized-newsletter-learn.md)
-   + [個性化新聞簡訊](/help/email-marketing/personalized-newsletter-watch.md)
-   + [封閉式內容提供](/help/email-marketing/gated-content-offer-learn.md)
-   + [門控內容提供了直通](/help/email-marketing/gated-content-offer-watch.md)
+   + [已排程的電子郵件](/help/email-marketing/scheduled-email-learn.md)
+   + [已排程的電子郵件逐步說明](/help/email-marketing/scheduled-email-watch.md)
+   + [個人化電子報](/help/email-marketing/personalized-newsletter-learn.md)
+   + [個人化Newsletter逐步說明](/help/email-marketing/personalized-newsletter-watch.md)
+   + [閘道內容選件](/help/email-marketing/gated-content-offer-learn.md)
+   + [閘道內容選件逐步說明](/help/email-marketing/gated-content-offer-watch.md)
    + [A/B測試](/help/email-marketing/ab-testing-learn.md)
-   + [A/B測試直通](/help/email-marketing/ab-testing-watch.md)
-   + [登錄頁 ](/help/email-marketing/landing-pages-learn.md)
-   + [登錄頁瀏覽](/help/email-marketing/landing-pages-watch.md)
+   + [A/B測試逐步說明](/help/email-marketing/ab-testing-watch.md)
+   + [登陸頁面 ](/help/email-marketing/landing-pages-learn.md)
+   + [登陸頁面逐步說明](/help/email-marketing/landing-pages-watch.md)
    + [Forms](/help/email-marketing/forms-learn.md)
-   + [電子郵件傳送能力](/help/email-marketing/email-deliverability-learn.md)
-   + [電子郵件可傳送性瀏覽](/help/email-marketing/email-deliverability-watch.md)
+   + [電子郵件傳遞能力](/help/email-marketing/email-deliverability-learn.md)
+   + [電子郵件傳遞能力逐步說明](/help/email-marketing/email-deliverability-watch.md)
    + [觸發的電子郵件](/help/email-marketing/triggered-email-learn.md)
-   + [觸發的電子郵件瀏覽](/help/email-marketing/triggered-email-watch.md)
-   + [鉛培養](/help/email-marketing/lead-nuturing-learn.md)
-   + [動態和預測內容](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [篩選電子郵件操作活動 — 設定](/help/filtering-email-bot-activities/setup.md)
-+ 跨渠道營銷 {#cross-channel-marketing}
-   + [Forms漫步](/help/email-marketing/forms-watch.md)
-   + [整合移動營銷](/help/cross-channel-marketing/mobile-marketing-learn.md)
-   + [移動營銷漫遊](/help/cross-channel-marketing/mobile-marketing-watch.md)
-   + [SEO和PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
-   + [SEO和PPC漫遊](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [社會營銷](/help/cross-channel-marketing/social-marketing-learn.md)
-   + [社會營銷漫步](/help/cross-channel-marketing/social-marketing-watch.md)
-   + [Web個性化](/help/cross-channel-marketing/web-personalization-learn.md)
-   + [Web個性化瀏覽](/help/cross-channel-marketing/web-personalization-watch.md)
-+ 動態聊天 {#dynamic-chat}
-   + [動態聊天教程](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [產品旅遊](/help/dynamic-chat/product-tour.md)
-   + [安裝和安裝](/help/dynamic-chat/setup.md)
+   + [觸發電子郵件逐步說明](/help/email-marketing/triggered-email-watch.md)
+   + [潛在客戶培養](/help/email-marketing/lead-nuturing-learn.md)
+   + [動態和預測性內容](/help/email-marketing/dynamic-and-predictive-content-learn.md)
+   + [篩選電子郵件機器人活動 — 設定](/help/filtering-email-bot-activities/setup.md)
++ 跨頻道行銷 {#cross-channel-marketing}
+   + [Forms逐步說明](/help/email-marketing/forms-watch.md)
+   + [整合行動裝置行銷](/help/cross-channel-marketing/mobile-marketing-learn.md)
+   + [行動行銷逐步說明](/help/cross-channel-marketing/mobile-marketing-watch.md)
+   + [SEO與PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
+   + [SEO和PPC逐步說明](/help/cross-channel-marketing/seo-and-ppc-watch.md)
+   + [社交行銷](/help/cross-channel-marketing/social-marketing-learn.md)
+   + [社交行銷逐步說明](/help/cross-channel-marketing/social-marketing-watch.md)
+   + [網頁個人化](/help/cross-channel-marketing/web-personalization-learn.md)
+   + [網頁個人化逐步說明](/help/cross-channel-marketing/web-personalization-watch.md)
++ Dynamic Chat {#dynamic-chat}
+   + [Dynamic Chat教學課程](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [產品導覽](/help/dynamic-chat/product-tour.md)
+   + [設定和安裝](/help/dynamic-chat/setup.md)
    + [Marketo整合](/help/dynamic-chat/marketo-integration.md)
-   + [用戶管理](/help/dynamic-chat/user-management.md)
-   + [對話框管理](/help/dynamic-chat/dialogue-management.md)
+   + [使用者管理](/help/dynamic-chat/user-management.md)
+   + [對話方塊管理](/help/dynamic-chat/dialogue-management.md)
    + [會議預訂](/help/dynamic-chat/meeting-booking.md)
-   + [15分鐘後開始直播](/help/dynamic-chat/go-live-in-15-minutes.md)
-   + [在對話中嵌入PDF](/help/dynamic-chat/document-cloud-integration.md)
-   + [在流設計器中搜索](/help/dynamic-chat/search-in-stream-designer.md)
-   + [捕獲推斷屬性](/help/dynamic-chat/capture-inferred-attributes.md)
-   + [對話框預覽](/help/dynamic-chat/dialogue-preview.md)
+   + [15分鐘後上線](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + [在對話中內嵌PDF](/help/dynamic-chat/document-cloud-integration.md)
+   + [在資料流設計工具中搜尋](/help/dynamic-chat/search-in-stream-designer.md)
+   + [擷取推斷的屬性](/help/dynamic-chat/capture-inferred-attributes.md)
+   + [對話方塊預覽](/help/dynamic-chat/dialogue-preview.md)
    + [參與報告](/help/dynamic-chat/engagement-report.md)
-   + [靜態內容的全球化](/help/dynamic-chat/globalization-of-static-content.md)
-   + [角色和權限](/help/dynamic-chat/roles-and-permissions.md)
-+ Sales Insight操作 {#sales-insight-actions}
+   + [靜態內容全球化](/help/dynamic-chat/globalization-of-static-content.md)
+   + [角色和許可權](/help/dynamic-chat/roles-and-permissions.md)
++ 銷售分析動作 {#sales-insight-actions}
    + [概觀](/help/sales-insight-actions/overview.md)
-   + [Sales Insight操作概述](/help/sales-insight-actions/sales-insight-actions-overview.md)
-   + [訪問Sales Insight Actions實例](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [將銷售活動記錄配置為 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ 線索和資料管理 {#lead-and-data-management}
-   + [線索評分](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Lead得分引導](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [銷售分析動作概觀](/help/sales-insight-actions/sales-insight-actions-overview.md)
+   + [存取您的Sales Insight Actions例項](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [設定銷售活動記錄 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ 銷售機會與資料管理 {#lead-and-data-management}
+   + [潛在客戶評分](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [銷售機會評分逐步說明](/help/lead-and-data-management/lead-scoring-watch.md)
    + [訂閱中心](/help/lead-and-data-management/subscription-center-learn.md)
-   + [訂閱中心漫步](/help/lead-and-data-management/subscription-center-watch.md)
+   + [訂閱中心逐步說明](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)
-   + [銷售線索生命週期](/help/lead-and-data-management/lead-lifecycle-learn.md)
-   + [Lead生命週期瀏覽](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ 實例管理 {#instance-management}
-   + [最佳做法](/help/instance-management/best-practice-learn.md)
-   + [最佳做法的逐步介紹](/help/instance-management/best-practice-watch.md)
+   + [潛在客戶生命週期](/help/lead-and-data-management/lead-lifecycle-learn.md)
+   + [銷售機會生命週期逐步說明](/help/lead-and-data-management/lead-lifecycle-watch.md)
++ 執行個體管理 {#instance-management}
+   + [最佳實務](/help/instance-management/best-practice-learn.md)
+   + [最佳實務逐步說明](/help/instance-management/best-practice-watch.md)
 + 事件 {#events}
-   + [事件瀏覽](/help/events/events-watch.md)
+   + [活動逐步說明](/help/events/events-watch.md)
    + [建立事件程式](/help/events/events-learn.md)
    + [網路研討會](/help/events/webinar-learn.md)
-   + [網路研討會漫步](/help/events/webinar-watch.md)
+   + [網路研討會逐步說明](/help/events/webinar-watch.md)
    + [設計有效的互動式網路研討會](/help/events/design-an-effective-interactive-webinar.md)
-+ 報告和分析 {#reporting}
-   + [報告和分析](/help/reporting/reporting-and-analytics.md)
++ 報告與分析 {#reporting}
+   + [報告與分析](/help/reporting/reporting-and-analytics.md)
++ 整合 {#integrations}
+   + [Marketo與Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
