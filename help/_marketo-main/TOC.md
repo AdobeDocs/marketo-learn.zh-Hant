@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: 7692d20ca3c21456a182afbf7585978f12506659
+source-git-commit: 8f0457d4d038796dd1c3e1a0cf8a6f4c55ffca89
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '263'
 ht-degree: 8%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 8%
    + [電子郵件程式](/help/programs/email-programs.md)
    + [活動計畫](/help/programs/event-programs.md)
    + [參與計畫](/help/programs/engagement-programs.md)
+   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
 + 電子郵件行銷 {#email-marketing}
    + [已排程的電子郵件](/help/email-marketing/scheduled-email-learn.md)
    + [已排程的電子郵件逐步說明](/help/email-marketing/scheduled-email-watch.md)
