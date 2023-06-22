@@ -1,20 +1,20 @@
 ---
-title: 建置和設計登錄頁面
-description: 了解如何建立、自訂和個人化登錄頁面。
+title: 建立及設計登入頁面
+description: 瞭解如何建立、自訂及個人化登入頁面。
 role: User
 level: Beginner
-kt: 10750
+jira: KT-10750
 thumbnail: 345469.jpeg
 exl-id: 2a7493c0-9627-4eb8-a01c-447f889b65f1
-source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
-# 建置和設計登錄頁面
+# 建立及設計登入頁面
 
-了解如何建立、自訂和個人化登錄頁面。
+瞭解如何建立、自訂及個人化登入頁面。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on)

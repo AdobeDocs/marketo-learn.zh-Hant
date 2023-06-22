@@ -1,20 +1,20 @@
 ---
-title: 建立觸發的電子郵件行銷活動
-description: 了解如何建立觸發的智慧型行銷活動。
+title: 建立觸發式電子郵件行銷活動
+description: 瞭解如何建立觸發式智慧行銷活動。
 role: User
 level: Beginner
-kt: 10763
+jira: KT-10763
 thumbnail: 345480.jpeg
 exl-id: 0fc3cc78-080c-4d55-a2e5-d07b8fa8305b
-source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 0%
 
 ---
 
-# 建立觸發的電子郵件行銷活動
+# 建立觸發式電子郵件行銷活動
 
-了解如何建立觸發的智慧型行銷活動。
+瞭解如何建立觸發式智慧行銷活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on)

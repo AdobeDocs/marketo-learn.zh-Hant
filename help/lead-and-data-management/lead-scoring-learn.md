@@ -1,20 +1,20 @@
 ---
-title: 瞭解如何構建銷售線索評分程式
-description: 通過使用銷售線索評分程式提高市場營銷為銷售提供的銷售線索的質量。  瞭解銷售線索評分、其工作原理以及成功實現其可衡量優勢的步驟。
+title: 瞭解如何建立銷售機會評分計畫
+description: 使用銷售機會評分方案，改善行銷活動提供給銷售人員的銷售機會品質。  瞭解銷售機會評分、其運作方式，以及成功實現其可測量利益的步驟。
 role: User
 level: Beginner
-kt: 10740
+jira: KT-10740
 thumbnail: 345424.jpeg
 exl-id: 70379a0e-2a11-4dd9-9faa-65d5ede388c2
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# 瞭解如何構建銷售線索評分程式
+# 瞭解如何建立銷售機會評分計畫
 
-通過使用銷售線索評分程式提高市場營銷為銷售提供的銷售線索的質量。  瞭解銷售線索評分、其工作原理以及成功實現其可衡量優勢的步驟。
+使用銷售機會評分方案，改善行銷活動提供給銷售人員的銷售機會品質。  瞭解銷售機會評分、其運作方式，以及成功實現其可測量利益的步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on)

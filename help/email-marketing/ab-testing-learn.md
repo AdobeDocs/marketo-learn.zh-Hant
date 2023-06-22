@@ -1,20 +1,20 @@
 ---
-title: 瞭解如何使用A/B測試提高電子郵件效能
-description: Marketo的內置A/B測試功能可幫助您做出資料驅動的決策，通過測試主題行、一週中的某天和某天的某一時間、「發件人」地址等，來提高電子郵件的有效性。 在Marketo使用電子郵件A/B測試以幫助提高電子郵件效能。
+title: 瞭解如何使用A/B測試來改善電子郵件效能
+description: Marketo的內建A/B測試功能可協助您進行資料導向式決策，並測試主題行、星期幾和一天中的時間、「寄件者」地址等專案，以改善電子郵件的有效性。 瞭解如何在Marketo中使用電子郵件A/B測試，以協助改善電子郵件效能。
 role: User
 level: Beginner
-kt: 10766
+jira: KT-10766
 thumbnail: 345483.jpeg
 exl-id: 94527801-50cc-4eb0-b75e-7db6911c38aa
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# 瞭解如何使用A/B測試提高電子郵件效能
+# 瞭解如何使用A/B測試來改善電子郵件效能
 
-Marketo的內置A/B測試功能可幫助您做出資料驅動的決策，通過測試主題行、一週中的某天和某天的某一時間、「發件人」地址等，來提高電子郵件的有效性。 在Marketo使用電子郵件A/B測試以幫助提高電子郵件效能。
+Marketo的內建A/B測試功能可協助您進行資料導向式決策，並測試主題行、星期幾和一天中的時間、「寄件者」地址等專案，以改善電子郵件的有效性。 瞭解如何在Marketo中使用電子郵件A/B測試，以協助改善電子郵件效能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345483/?quality=12&learn=on)
