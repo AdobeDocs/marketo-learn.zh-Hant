@@ -1,5 +1,5 @@
 ---
-title: Smart Campaigns 101 — 除了核心方案以外，您可以使用Smart Campaigns做什麼
+title: Smart Campaigns 101
 description: 瞭解如何使用Smart Campaigns進行資料標準化和自動化警報。
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ last-substantial-update: 2023-05-30T00:00:00Z
 jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
-source-git-commit: 4164691859d6e907794fca75fe8e71e1aa0332d9
+source-git-commit: b23ba9f2bf8ebc824385649b9d5b9b464eb2af97
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Smart Campaigns 101 — 除了核心方案以外，您可以使用Smart Campaigns做什麼
+# Smart Campaigns 101
 
 Smart Campaigns是Marketo的引擎。 除了使用Smart Campaigns傳送電子郵件和方案外，您還可以針對各種使用案例使用Smart Campaigns。 瞭解如何使用Smart Campaigns進行資料標準化和自動化警報。
 
