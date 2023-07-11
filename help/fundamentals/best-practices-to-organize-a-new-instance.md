@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
-source-git-commit: 3541cb30d3e2e3f6f9e82d95179a352fd052e0d1
+source-git-commit: 8aeef083b27c23dac3828db9519e0cbd79f31f7e
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -29,5 +29,6 @@ ht-degree: 0%
 * [復製程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
 * [在程式中複製資產](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
 * [匯入計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [瞭解資料夾] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html) *[建立新的Campaign資料夾](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
-*[瞭解工作區和人員資料分割](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
+* [瞭解資料夾](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html)
+* [建立新的Campaign資料夾](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
+* [瞭解工作區和人員資料分割](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
