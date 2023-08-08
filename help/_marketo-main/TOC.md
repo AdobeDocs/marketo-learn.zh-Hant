@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
-source-git-commit: df2e02619fcb4a31d39cddd2660e0dff32c208b5
+source-git-commit: 85e794a49723cc931f1e8a56f39c0947af51b243
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '298'
 ht-degree: 7%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 7%
    + [組織新執行個體的最佳實務](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎計畫的最佳實務](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用權杖個人化](/help/personalization/personalize-with-tokens.md)
+   + [繼承的執行個體稽核](/help/fundamentals/inherted-instance-audit.md)
 + 方案與行銷活動 {#programs-and-campaigns}
    + [瞭解方案和行銷活動](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
