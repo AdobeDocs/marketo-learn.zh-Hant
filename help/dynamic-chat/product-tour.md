@@ -7,10 +7,10 @@ jira: KT-9697
 thumbnail: 340473.jpeg
 exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 15%
+source-wordcount: '101'
+ht-degree: 14%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 15%
 
 [!UICONTROL Dynamic Chat]  是專為行銷和銷售打造的全新聊天機器人解決方案。 原生整合了和 [!DNL Marketo Engage]，可讓您使用 [!UICONTROL Dynamic Chat]  作為跨管道行銷中的新管道。 使用簡單，設定容易。 進行快速產品導覽：
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
 
 ## 更多實用的影片
 

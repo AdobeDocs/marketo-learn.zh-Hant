@@ -9,18 +9,18 @@ jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
 feature: Smart Campaigns
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 # Smart Campaigns 101
 
-Smart Campaigns是Marketo的引擎。 除了使用Smart Campaigns傳送電子郵件和方案外，您還可以針對各種使用案例使用Smart Campaigns。 瞭解如何使用Smart Campaigns進行資料標準化和自動化警報。
+Smart Campaigns是Marketo的引擎。 除了使用Smart Campaigns傳送電子郵件和方案之外，您還可以針對各種使用案例使用Smart Campaigns 。 瞭解如何使用Smart Campaigns進行資料標準化和自動化警報。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## 其他資源

@@ -1,6 +1,6 @@
 ---
-title: 導覽Marketo Engage使用者介面
-description: 瞭解如何導覽使用者介面，並熟悉Marketo Engage平台的運作方式。
+title: 瀏覽Marketo Engage使用者介面
+description: 瞭解如何導覽使用者介面，並熟悉您的Marketo Engage平台操作方式。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,18 +9,18 @@ jira: KT-13202
 thumbnail: 3419131.jpeg
 exl-id: b4c7aeb6-d1f9-4164-a318-3e12b0e8aaea
 feature: Modern UX
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# 導覽Marketo Engage使用者介面
+# 瀏覽Marketo Engage使用者介面
 
-瞭解如何導覽使用者介面，並熟悉Marketo Engage平台的運作方式。
+瞭解如何導覽使用者介面，並熟悉您的Marketo Engage平台操作方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## 其他資源
 

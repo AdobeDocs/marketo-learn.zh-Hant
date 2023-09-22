@@ -5,20 +5,20 @@ role: User
 level: Beginner
 exl-id: 2d91afed-8204-4685-ac58-b8f350b6be14
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
 # 銷售分析動作概觀 {#sales-insight-actions-overview}
 
-透過行銷支援的智慧和參與工具，使用Sales Insight Actions在單一工作流程中加速探索潛在客戶的能力。
+透過行銷支援的智慧和參與工具，透過銷售分析動作，在單一工作流程中加速遠景規劃。
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
 
 ## 相關影片
 
-* [將銷售活動記錄設定為 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [設定銷售活動記錄至 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
 * [存取您的 [!DNL Sales Insight Actions] 例項](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

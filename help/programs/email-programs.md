@@ -9,9 +9,9 @@ jira: KT-13257
 thumbnail: 3419440.jpeg
 exl-id: 89db03e2-6db0-46f8-ada1-31625663642d
 feature: Programs
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 觀看此逐步教學課程，瞭解如何使用A/B測試建立電子郵件計畫。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
 
 
 ## 其他資源：
 
-如需詳細資訊，請參閱相關產品指南：
+如需詳細資訊，請參閱相關的產品指南：
 * [瞭解電子郵件程式檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 觀看其他影片以取得此功能的更多說明：
@@ -33,4 +33,4 @@ ht-degree: 0%
 * [AB測試逐步說明](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 向您的同業學習如何使用電子郵件計畫：
-* [專家客戶部落格：電子郵件計畫](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [專家客戶部落格：電子郵件程式](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
