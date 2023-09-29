@@ -1,6 +1,6 @@
 ---
 title: Dynamic Chat教學課程
-description: 了解 Adobe Experience League 上的 Dynamic Chat。 使用這些教學課程與文件來更了解如何使用 Dynamic Chat 建立個人化的對話。
+description: 了解 Adobe Experience League 上的 Dynamic Chat。使用這些教學課程與文件來更了解如何使用 Dynamic Chat 建立個人化的對話。
 doc-type: overview-page
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
 source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '325'
+ht-degree: 9%
 
 ---
 
@@ -28,22 +28,22 @@ ht-degree: 0%
 * **[新增和管理使用者 [!UICONTROL Dynamic Chat]](user-management.md)**
   *瞭解如何在中新增或管理使用者 [!UICONTROL Dynamic Chat] .*
 * **[建立和管理個人化對話](dialogue-management.md)**
-  *瞭解如何建立對話方塊，以快速讓您的網路訪客參與 [!UICONTROL Dynamic Chat].*
+  *瞭解如何建立對話方塊，以快速讓您的網站訪客參與 [!UICONTROL Dynamic Chat].*
 * **[讓您的銷售機會預約與銷售人員開會](meeting-booking.md)**
-  *加速與銷售人員建立聯絡，滿足下列需求： [!DNL target] 具有Meeting booking功能的帳戶。*
+  *加速與客戶的銷售聯絡 [!DNL target] 具有會議預約功能的帳戶。*
 * **[15分鐘後上線](go-live-in-15-minutes.md)**
-  *逐步指南可協助您使用將第一個對話方塊上線 [!UICONTROL Dynamic Chat]  只需15分鐘！*
+  *逐步指南可協助您使用進行第一個對話方塊 [!UICONTROL Dynamic Chat]  只需15分鐘！*
 * **[在交談中內嵌PDF](document-cloud-integration.md)**
   *在您設計的個人化對話中分享PDF檔案 [!UICONTROL Dynamic Chat].*
 * **[在資料流設計工具中搜尋](search-in-stream-designer.md)**
-  *快速搜尋可協助您按一下即可存取資料流設計工具中的任何卡片。*
+  *快速搜尋可協助您在資料流設計工具中按一下即可找到任何卡片。*
 * **[擷取推斷的屬性](capture-inferred-attributes.md)**
   *我們可以利用Munchkin ID來識別並填入透過Dynamic Chat擷取的每個潛在客戶的推斷屬性。*
 * **[對話方塊預覽](dialogue-preview.md)**
   *使用對話方塊預覽功能，在發佈之前預覽對話方塊會非常簡單。*
 * **[參與報告](engagement-report.md)**
-  *檢視您的網路訪客如何參與您的對話方塊的趨勢*
+  *檢視您的網站訪客如何與您的對話方塊互動的趨勢*
 * **[靜態內容全球化](globalization-of-static-content.md)**
   *您可以將靜態/系統內容個人化為您選擇的語言。*
 * **[角色和許可權](roles-and-permissions.md)**
-  *瞭解如何建立新角色及設定Dynamic Chat使用者的許可權。*
+  *瞭解如何建立新角色並設定Dynamic Chat使用者的許可權。*
