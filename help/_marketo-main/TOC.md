@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 8%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 8%
    + [組織新執行個體的最佳實務](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎計畫的最佳實務](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用權杖個人化](/help/personalization/personalize-with-tokens.md)
-   + [繼承的執行個體稽核](/help/fundamentals/inherted-instance-audit.md)
+   + [稽核繼承的執行個體](/help/fundamentals/inherted-instance-audit.md)
 + 方案與行銷活動 {#programs-and-campaigns}
    + [瞭解方案和行銷活動](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
@@ -91,8 +91,8 @@ ht-degree: 8%
    + [存取您的Sales Insight Actions例項](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [設定銷售活動記錄至 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 潛在客戶與資料管理 {#lead-and-data-management}
-   + [潛在客戶評分](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [銷售機會評分逐步說明](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [銷售機會/個人評分](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [銷售機會/個人評分逐步說明](/help/lead-and-data-management/lead-scoring-watch.md)
    + [訂閱中心](/help/lead-and-data-management/subscription-center-learn.md)
    + [訂閱中心逐步說明](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)
