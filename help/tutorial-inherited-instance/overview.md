@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-09-07T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -35,7 +35,6 @@ ht-degree: 0%
 
 * **[開發執行個體治理指南](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
   *瞭解如何達成快速效率目標，以最佳化方案建置、治理和整體行銷作業*
-
 
 * **[以視覺化方式呈現您的行銷技術棧疊](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
   *瞭解如何使用視覺化架構圖對應資料來源，以瞭解您的技術棧疊*

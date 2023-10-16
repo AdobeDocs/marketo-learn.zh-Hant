@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-06T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
-source-wordcount: '5428'
+source-wordcount: '5436'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 如果您是 [!DNL Marketo Engage] 管理員或行銷作業團隊中，正確檢閱方案設定對於避免客戶面對錯誤至關重要。 雖然您可以一路從錯誤中學習，以限制錯誤，但這不是一個可擴展的程式。 瞭解如何在建置者和進階使用者/檢閱者之間設計和執行程式啟動前品質保證(QA)流程，有助於節省您的時間、避免錯誤，並更快速地訓練您的內部使用者。
 
-在本教學課程中，您將瞭解 [!DNL Marketo Engage] 管理員可以開發計畫啟動前QA程式，以協助您的內部團隊擴展。 計畫啟動前檢查清單來源於AdobeMarketo Champion(20) Grace Brebner，可做為範例來逐步說明關鍵元素和需求。
+在本教學課程中，您將瞭解 [!DNL Marketo Engage] 管理員可以開發計畫啟動前QA程式，以協助您的內部團隊擴展。 計畫啟動前檢查清單來自AdobeMarketo Champion (2021)， [Grace Brebner的部落格](https://nation.marketo.com/t5/champion-program-blogs/the-ultimate-go-live-checklist/ba-p/245759)，以作為範例，逐步引導您瞭解關鍵元素和需求。
 
 ## 為何要設計程式啟動前QA程式？
 
@@ -129,9 +129,9 @@ ht-degree: 1%
 |---|---|---|---|---|
 | 1 | **準確性** | 是否已檢查、檢閱所有必要的智慧型行銷活動，且將其視為準確？ | **是：** <br>如果您無法以「是」來回答，您應修正並檢查這些專案，然後再繼續。 | [智慧行銷活動檢查清單](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.html){target="_blank"} |
 | 2 | **傳送計數** | 如果您的電子郵件傳送行銷活動是批次行銷活動（未觸發），請檢視「排程」索引標籤中的潛在客戶計數 — 數字是否與您期望的一致？ 其是否低於中止臨界值？ | **是：** <br>如果您無法以「是」來回答，您應修正並檢查這些專案，然後再繼續。 | [排程您的電子郵件程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.html){target="_blank"} |
-| 3 | **主要規則** | 是否在適當或適當時使用主要區段/清單？ | **是或不適用：**<br> 主要清單/區段旨在減少您必須參考的欄位數量，並降低人為錯誤的風險。 如果您不使用主要清單/區段，應該對您的規則有信心。 |  |
+| 3 | **主要規則** | 主要區段/清單是否會在適當或適當的情況下使用？ | **是或不適用：**<br> 主要清單/區段旨在減少您必須參考的欄位數量，並降低人為錯誤的風險。 如果您未使用主要清單/區段，應該對您的規則有信心。 |  |
 | 4 | **出處** | 如果程式正在取得新的銷售機會（例如事件程式），是否要視需要納入歸因設定？ 正在對應贏取計畫嗎？ | **是或不適用：** <br>如果您正在將人員匯入至程式，或您的程式將會贏取新人員，您應該使用贏取程式設定。 |  |
-| 5 | **參與計畫** | 在參與方案中使用Smart Campaign時，是否有步驟可確保成員適當地新增、暫停和重新啟動？ 這些步驟是否已由其他人檢閱？ | **是或不適用：**<br> 如果這是參與計畫，且您沒有正當理由而無法回答「是」，則請勿在此動作就緒前啟用。 | [將人員新增至參與計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html){target="_blank"} |
+| 5 | **參與計畫** | 在參與方案中使用Smart Campaign時，是否有步驟可確保成員適當地新增、暫停和重新啟動？ 這些步驟是否已由其他人檢閱？ | **是或不適用：**<br> 如果這是「參與計畫」，且您無正當理由無法以「是」回答，則請勿啟動此計畫。 | [將人員新增至參與計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html){target="_blank"} |
 | 6 | **訂閱偏好設定** | 是否已包含所有必要的訂閱偏好設定因素？ | **是或不適用：**<br> 如果您不確定，請詢問您的 [!DNL Marketo Engage] 管理員。 您需要一個好的理由才能繼續進行N/A （例如，作業傳送）。 | [如何設定及管理訂閱中心](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html){target="_blank"} |
 | 7 | **計畫狀態** | 更新計畫狀態是否包含流程步驟？ | **是：** <br>如果您無法以「是」來回答，您應將這些專案新增至Smart Campaign流程步驟中。 | [變更方案狀態](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html){target="_blank"} |
 | 8 | **更廣泛的影響** | <li>是否有任何流程步驟會傳送警報/寫入到同步到其他團隊/系統的欄位？ <li>若是如此，是否已考量數量，並向這些團隊/系統的利害關係人提供建議？ | **是、否或不適用：**<br> 任何答案都可以，但如果它確實對應，您通常應該通知擁有系統的團隊。 如果您不確定，請詢問管理員。 |  |

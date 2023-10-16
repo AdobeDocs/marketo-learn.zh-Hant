@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 當您步入舊版時 [!DNL Marketo Engage] 例如，缺乏最新的功能與技術檔案常常是帶來挑戰。 身為管理員，建立准則以確保適當的執行個體治理是您不可忽視的核心責任。 這是重要策略之一， [在建立的Marketo Engage執行個體中工作時提高效率](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-此逐步教學課程來源為 [!DNL Adobe Marketo Champion]Nick Hajdin將引導您完成此程式，以概要說明執行個體設定、記錄主要作業程式並維護 [!DNL changelog] 以強制實行嚴格的治理政策。
+此逐步教學課程來源為 [!DNL Adobe Marketo Champion] (2018) Nick Hajdin將引導您完成此程式，以概述您的執行個體設定、記錄您的主要作業程式並維護 [!DNL changelog] 以強制實行嚴格的治理政策。
 
 ## 為何要為繼承的執行個體開發執行個體治理指南和檔案？
 
