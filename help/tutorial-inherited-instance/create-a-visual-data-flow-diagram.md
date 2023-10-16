@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-03T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 94ed2bdf9c0427e4d18c04921b55008773b6736a
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 建立視覺化資料流程圖以瞭解您的行銷技術棧疊
 
-作為管理者，接管 [!DNL Marketo Engage] 執行個體已運行多年，這就像是一項無法稽核並有效清理執行個體的任務。 Adobe時 [!DNL Marketo Champion]，Kelly Jo Horton步入一個歷史悠久的例項，解決此難題的方法是 [建立「潛在客戶與資料來源」的圖表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} 以熟悉資料世界。 在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
+作為管理者，接管 [!DNL Marketo Engage] 執行個體已運行多年，這就像是一項無法稽核並有效清理執行個體的任務。 Adobe時 [!DNL Marketo Champion] (2019)，Kelly Jo Horton進入歷史悠久的階段，她透過以下方式解決這個挑戰 [建立「潛在客戶與資料來源」的圖表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} 以熟悉資料世界。 在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
 
 ## 為什麼要為您繼承的執行個體建立架構圖？
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 ## 作者
 
 **凱莉·喬·霍頓**\
-AdobeMarketo冠軍校友
+AdobeMarketo王(2019)
 *Etumos的資深客戶合作夥伴*
 
 ![凱莉·喬·霍頓](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
