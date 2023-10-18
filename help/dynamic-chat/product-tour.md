@@ -1,28 +1,28 @@
 ---
 title: Dynamic Chat產品導覽
-description: 了解 Dynamic Chat，這是 Adobe 專為行銷和銷售而打造的新聊天機器人解決方案。
+description: 瞭解Dynamic Chat，這是專為Adobe的行銷和銷售而打造的新聊天解決方案。
 role: User
 level: Beginner
-jira: KT-9697
-thumbnail: 340473.jpeg
-exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
-feature: Dynamic Chat
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+doc-type: Feature Video
+last-substantial-update: 2023-10-18T00:00:00Z
+jira: KT-14209
+thumbnail: 3425033.jpeg
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 14%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
-# 的產品導覽 [!UICONTROL Dynamic Chat]
 
-[!UICONTROL Dynamic Chat]  是專為行銷和銷售打造的全新聊天機器人解決方案。 原生整合了和 [!DNL Marketo Engage]，可讓您使用 [!UICONTROL Dynamic Chat]  作為跨管道行銷中的新管道。 使用簡單，設定容易。 進行快速產品導覽：
+# 的產品導覽 [!UICONTROL Dynamic Chat] [2023年]
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+透過個人化對話與您的網路訪客互動，這些對話將產生銷售機會、利用GenAI的強大功能回應訪客問題、路由至銷售代理，以及透過其他管道重新定位聊天銷售機會，以推動會議預訂。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425033/?learn=on)
 
 ## 更多實用的影片
 
+* [產品導覽[2022]](product-tour-2022.md)
 * [設定並安裝您的聊天機器人](setup.md)
-* [透過啟用您的Marketo整合 [!UICONTROL Dynamic Chat]](marketo-integration.md)
-* [新增和管理使用者 [!UICONTROL Dynamic Chat]](user-management.md)
 * [15分鐘後上線](go-live-in-15-minutes.md)
