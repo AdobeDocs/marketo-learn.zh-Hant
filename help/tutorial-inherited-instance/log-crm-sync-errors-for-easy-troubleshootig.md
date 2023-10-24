@@ -9,7 +9,7 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
+source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 記錄CRM同步錯誤，以輕鬆進行疑難排解
 
-身為Marketo Engage管理員，檢查執行個體是否與CRM同步應該是您的一項關鍵工作 [每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (在Marketo Engage介面的右上角找到)您可以在此處開始尋找和調查經常發生的同步問題，這裡有專業秘訣可協助您以有條理的方式管理執行個體健康狀況。  AdobeMarketo Champion (2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤的記錄，以便更輕鬆進行疑難排解。
+身為Marketo Engage管理員，檢查執行個體是否與CRM同步應該是您的一項關鍵工作 [每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (在Marketo Engage介面的右上角找到)您可以在此處開始尋找和調查經常發生的同步問題，這裡有專業秘訣可協助您以有條理的方式管理執行個體健康狀況。 AdobeMarketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤的記錄，以便更輕鬆進行疑難排解。
 
 ![[同步錯誤]索引標籤的熒幕擷圖](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
