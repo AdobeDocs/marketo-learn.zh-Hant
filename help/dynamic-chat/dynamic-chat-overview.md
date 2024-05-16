@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '406'
 ht-degree: 8%
 
 ---
@@ -57,6 +57,9 @@ ht-degree: 8%
      *連線您的合格銷售機會，立即與銷售代理商接洽。*
    * **[讓您的銷售機會預約與銷售人員開會](meeting-booking.md)**
      *加速與客戶的銷售聯絡 [!DNL target] 具有會議預約功能的帳戶。*
+* Generative AI Chat
+   * **[推動GenAI支援的對話](gen-ai-features.md)**
+     *瞭解如何使用Dynamic ChatGenAI功能。*
 * Analytics
    * **[參與報告](engagement-report.md)**
      *檢視您的網站訪客如何與您的對話方塊互動的趨勢*
