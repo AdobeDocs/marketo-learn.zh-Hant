@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '357'
 ht-degree: 8%
 
 ---
@@ -109,7 +109,13 @@ ht-degree: 8%
    + [建立事件程式](/help/events/events-learn.md)
    + [網路研討會](/help/events/webinar-learn.md)
    + [網路研討會逐步說明](/help/events/webinar-watch.md)
+   + [互動式網路研討會使用者和授權管理](/help/events/interactive-webinars-user-and-license-management.md)
+   + [互動式網路研討會活動方案建立](/help/events/interactive-webinars-event-program-creation.md)
+   + [互動式網路研討會活動計畫總覽](/help/events/interactive-webinars-event-program-overview.md)
+   + [互動式網路研討會事件設定](/help/events/interactive-webinars-event-configuration.md)
    + [設計有效的互動式網路研討會](/help/events/design-an-effective-interactive-webinar.md)
+   + [互動式網路研討會事件傳送](/help/events/interactive-webinars-event-delivery.md)
+   + [互動式網路研討會發佈事件深入分析和動作](/help/events/interactive-webinars-post-event-insights-and-actions.md)
 + 報告與分析 {#reporting}
    + [報告與分析](/help/reporting/reporting-and-analytics.md)
    + [重要報表](/help/reporting/key-reports.md)
