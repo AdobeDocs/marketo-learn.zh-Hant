@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '464'
 ht-degree: 7%
 
 ---
@@ -52,6 +52,8 @@ ht-degree: 7%
      *瞭解如何在網站訪客填寫表單後立即與他們互動。*
    * **[Conversations SDK](conversations-sdk.md)**
      *瞭解如何實作Conversations SDK，將任何CTA點選轉換為吸引人的交談。*
+   * **[可重複使用的流程](reusable-flows.md)**
+     *使用新的對話式流量卡，簡化對話的設計及管理。 建立一次對話串流，並將其重新用於多個對話方塊。*
    * **[對話式登陸頁面](conversational-landing-pages.md)**
      *只要按幾下，即可將Dynamic Chat交談流程安裝至任何登陸頁面(Marketo登陸頁面或自訂)，並轉換任何連結或按鈕以觸發交談參與。*
 * Live Chat和會議預訂
