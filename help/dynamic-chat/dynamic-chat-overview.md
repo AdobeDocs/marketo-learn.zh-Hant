@@ -1,15 +1,16 @@
 ---
 title: Dynamic Chat教學課程
 description: 了解 Adobe Experience League 上的 Dynamic Chat。使用這些教學課程與文件來更了解如何使用 Dynamic Chat 建立個人化的對話。
+short-description: 使用這些教學課程與產品檔案，協助您更瞭解Dynamic Chat的各種運作方式。
 doc-type: overview-page
 role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 7%
+source-wordcount: '486'
+ht-degree: 6%
 
 ---
 
@@ -40,7 +41,7 @@ ht-degree: 7%
      *瞭解如何建立對話方塊，以快速讓您的網站訪客參與 [!UICONTROL Dynamic Chat].*
    * **[在交談中內嵌PDF](document-cloud-integration.md)**
      *在您設計的個人化對話中分享PDF檔案 [!UICONTROL Dynamic Chat].*
-   * **[在資料流設計工具中搜尋](search-in-stream-designer.md)**
+   * **[在串流Designer中搜尋](search-in-stream-designer.md)**
      *快速搜尋可協助您在資料流設計工具中按一下即可找到任何卡片。*
    * **[擷取推斷的屬性](capture-inferred-attributes.md)**
      *我們可以利用Munchkin ID來識別並填入透過Dynamic Chat擷取的每個潛在客戶的推斷屬性。*
