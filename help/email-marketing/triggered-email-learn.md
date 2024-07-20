@@ -1,6 +1,6 @@
 ---
 title: 瞭解如何建立觸發式電子郵件行銷活動
-description: 瞭解如何使用 [!DNL Marketo] 使用觸發的電子郵件行銷活動，及時與相關的訊息傳送互動，以利用購買者的行為。
+description: 瞭解如何使用 [!DNL Marketo] 利用觸發的電子郵件行銷活動來即時傳送相關的訊息，以利用購買者的行為。
 role: User
 level: Beginner
 jira: KT-10762
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 瞭解如何建立觸發式電子郵件行銷活動
 
-瞭解如何使用 [!DNL Marketo] 使用觸發的電子郵件行銷活動，及時與相關的訊息傳送互動，以利用購買者的行為。
+瞭解如何使用[!DNL Marketo]，運用觸發的電子郵件行銷活動，即時傳送相關訊息，以利用購買者的行為。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}

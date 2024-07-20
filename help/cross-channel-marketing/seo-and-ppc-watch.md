@@ -1,5 +1,5 @@
 ---
-title: 如何最佳化您的SEO工作，透過 [!DNL Marketo]
+title: 如何使用 [!DNL Marketo]最佳化您的SEO工作
 description: 觀察如何實作步驟以成功建立有益的SEO和PPC策略。
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# 如何最佳化您的SEO工作，透過 [!DNL Marketo]
+# 如何使用[!DNL Marketo]最佳化您的SEO工作
 
 觀察如何實作步驟以成功建立有益的SEO和PPC策略。
 

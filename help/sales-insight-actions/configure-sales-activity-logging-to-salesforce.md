@@ -12,13 +12,13 @@ ht-degree: 0%
 
 ---
 
-# 設定銷售活動記錄至 [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
+# 將銷售活動記錄設定為[!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
 
-瞭解如何設定銷售分析動作活動並記錄至您的 [!DNL Salesforce] 帳戶。
+瞭解如何設定銷售分析動作活動，並將其記錄到您的[!DNL Salesforce]帳戶。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
 
 ## 相關影片
 
-* [銷售分析動作概觀](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [存取您的 [!DNL Sales Insight Actions] 例項](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [銷售分析動作總覽](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [存取您的 [!DNL Sales Insight Actions] 執行個體](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

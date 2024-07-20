@@ -1,6 +1,6 @@
 ---
 title: 如何使用網頁個人化吸引訪客
-description: 觀看如何連線 [!DNL Marketo] 數位廣告LaunchPoint合作夥伴提供支援。
+description: 觀看如何連結 [!DNL Marketo] 至數位廣告LaunchPoint合作夥伴。
 role: User
 level: Beginner
 jira: KT-10726
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 如何使用網頁個人化吸引訪客
 
-觀看如何連線 [!DNL Marketo] 數位廣告LaunchPoint合作夥伴提供支援。
+觀看如何連結[!DNL Marketo]至數位廣告LaunchPoint合作夥伴。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

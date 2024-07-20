@@ -1,6 +1,6 @@
 ---
 title: 銷售分析動作Tutorials
-description: 使用 [!UICONTROL 銷售分析動作] 透過行銷支援的智慧和參與工具，在單一工作流程中加速遠景規劃。
+description: 使用[!UICONTROL 銷售分析動作]，透過行銷支援的智慧和參與工具，在單一工作流程中加速潛在客戶搜尋工作。
 doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/header.png)
 
-使用 [!UICONTROL 銷售分析動作] 透過行銷支援的智慧和參與工具，在單一工作流程中加速遠景規劃。
+使用[!UICONTROL 銷售分析動作]，透過行銷支援的智慧和參與工具，在單一工作流程中加速潛在客戶搜尋工作。
 
 ## 主要Tutorials {#featured-tutorials}
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 <tr>
 <td>
 <a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><img alt="銷售分析動作概覽的縮圖影像" src="assets/sales-insight-actions-feature-overview-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>銷售分析動作概觀</strong></a></div>
+<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>銷售分析動作總覽</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="存取您的Sales Insight動作執行個體的縮圖影像" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>存取您的Sales Insight Actions例項</strong></a></div>
+<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>存取您的Sales Insight Actions執行個體</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="設定銷售活動記錄的縮圖影像 [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>設定銷售活動記錄至 [!DNL Salesforce]</strong></a></div>
+<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>將銷售活動記錄設定為[!DNL Salesforce]</strong></a></div>
 </td>
 </tr>
 </table>
@@ -44,12 +44,12 @@ ht-degree: 0%
 <tr>
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><img alt="銷售分析動作功能概觀的縮圖影像" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Sales Insight動作功能概觀</strong></a></div>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>銷售分析動作功能概觀</strong></a></div>
 <p><em>運用行銷支援的智慧和參與工具，加速遠景規劃。</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="縮圖影像 [!DNL Sales Insight Actions] 使用者入門指南" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] 使用者入門指南</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="[!DNL Sales Insight Actions]使用者入門指南的縮圖影像" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions]使用者上線指南</strong></a></div>
 <p><em>新使用者開始使用時需要遵循的步驟。</em></p>
 </td>
 <td>

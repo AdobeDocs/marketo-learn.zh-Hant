@@ -1,5 +1,5 @@
 ---
-title: 瞭解如何建立和執行 [!UICONTROL 銷售機會] 培育行銷活動
+title: 瞭解如何建立及執行[!UICONTROL 銷售機會]培養行銷活動
 description: 透過個人培養，您可以傾聽個人的需求，並在其獨特的購買歷程中以相關的內容回應。 瞭解培養計畫、運作方式以及成功步驟。
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解如何建立和執行 [!UICONTROL 銷售機會] 培育行銷活動
+# 瞭解如何建立及執行[!UICONTROL 銷售機會]培養行銷活動
 
-替換為 [!UICONTROL 個人培養]，您可以傾聽個人需求，並在其獨特的購買者歷程中以相關內容回應。 瞭解培養計畫、運作方式以及成功步驟。
+透過[!UICONTROL 個人培養]，您可以傾聽個人的需求，並在其獨特的購買歷程中以相關的內容回應。 瞭解培養計畫、運作方式以及成功步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}

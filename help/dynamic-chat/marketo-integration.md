@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# 透過啟用您的Marketo整合 [!UICONTROL Dynamic Chat]
+# 啟用與[!UICONTROL Dynamic Chat]的Marketo整合
 
-[!UICONTROL Dynamic Chat]  原生整合至 [!DNL Marketo Engage]，這可讓您使用聊天機器人對話的內容，重新鎖定潛在客戶目標或對潛在客戶評分。
+[!UICONTROL Dynamic Chat]已原生整合至[!DNL Marketo Engage]，讓您能夠使用聊天機器人對話的內容，重新鎖定潛在客戶目標或對潛在客戶評分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
 
 ## 更多實用的影片
 
 * [建立和管理個人化對話](dialogue-management.md)
-* [新增和管理使用者 [!UICONTROL Dynamic Chat]](user-management.md)
+* [新增和管理[!UICONTROL Dynamic Chat]的使用者](user-management.md)
 * [擷取推斷的屬性](capture-inferred-attributes.md)

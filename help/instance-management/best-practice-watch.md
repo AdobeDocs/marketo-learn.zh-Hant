@@ -1,5 +1,5 @@
 ---
-title: 使用方式 [!DNL Marketo] 執行個體和方案最佳實務
+title: 如何使用 [!DNL Marketo] 執行個體和程式最佳實務
 description: 觀看如何在Marketo中實施Marketo建議的程式和執行個體最佳實務。
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# 使用方式 [!DNL Marketo] 執行個體和方案最佳實務
+# 如何使用[!DNL Marketo]執行個體和程式最佳實務
 
 觀看如何在Marketo中實施Marketo建議的程式和執行個體最佳實務。
 

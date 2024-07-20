@@ -1,6 +1,6 @@
 ---
 title: 如何建置人員生命週期方案
-description: 建立 [!UICONTROL 個人生命週期] 使用計畫狀態來追蹤您的潛在客戶的計畫，並對準備好要銷售的潛在客戶採取行動。
+description: 建立[!UICONTROL 個人生命週期]方案，使用方案狀態追蹤您的銷售機會，並對準備銷售的銷售機會採取行動。
 role: User
 level: Beginner
 jira: KT-10739
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 如何建置人員生命週期方案
 
-建立 [!UICONTROL 個人生命週期] 使用計畫狀態來追蹤您的潛在客戶的計畫，並對準備好要銷售的潛在客戶採取行動。
+建立[!UICONTROL 個人生命週期]方案，使用方案狀態追蹤您的銷售機會，並對準備銷售的銷售機會採取行動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}

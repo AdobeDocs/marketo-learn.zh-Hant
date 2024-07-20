@@ -1,6 +1,6 @@
 ---
-title: 瞭解如何使用 [!DNL Marketo] 執行個體和方案最佳實務
-description: 關注 [!DNL Marketo's] 組織您的方案和執行個體的建議最佳實務，可協助您和您的同事在執行個體中適時找到您需要的內容，並讓您的報告更準確。
+title: 瞭解如何使用 [!DNL Marketo] 執行個體和程式最佳實務
+description: 依循 [!DNL Marketo's] 組織您的程式和執行個體的建議最佳實務，可協助您和您的同事在需要時找到執行個體中所需的專案，並有助於讓您的報告更準確。
 role: User
 level: Beginner
 jira: KT-10736
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解如何使用 [!DNL Marketo] 執行個體和方案最佳實務
+# 瞭解如何使用[!DNL Marketo]執行個體和程式最佳實務
 
-關注 [!DNL Marketo's] 組織您的方案和執行個體的建議最佳實務，可協助您和您的同事在執行個體中適時找到您需要的內容，並讓您的報告更準確。
+遵循[!DNL Marketo's]組織您的方案和執行個體的建議最佳實務，可協助您和您的同事找到執行個體中您需要的專案（當您需要時），並幫助讓您的報告更準確。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}

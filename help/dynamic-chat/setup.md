@@ -1,6 +1,6 @@
 ---
 title: 設定並安裝您的聊天機器人
-description: 瞭解如何設定和設定 [!UICONTROL Dynamic Chat] 供第一次使用。
+description: 瞭解如何設定和設定[!UICONTROL Dynamic Chat]以供第一次使用。
 role: User
 level: Beginner
 jira: KT-9693
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 * [啟用與Dynamic Chat的Marketo整合](marketo-integration.md)
 * [建立和管理個人化對話](dialogue-management.md)
-* [新增和管理使用者 [!UICONTROL Dynamic Chat]](user-management.md)
+* [新增和管理[!UICONTROL Dynamic Chat]的使用者](user-management.md)

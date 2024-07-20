@@ -32,5 +32,5 @@ Smart Campaigns是Marketo的引擎。 除了使用Smart Campaigns傳送電子郵
 
 **專家客戶部落格：**
 
-* [Smart Campaigns 101：深入探討Adobe Marketo Engage最強大的功能](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [智慧行銷活動101：深入探討Adobe Marketo Engage最強大的功能](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
 * [Marketo成功系列：智慧行銷活動](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

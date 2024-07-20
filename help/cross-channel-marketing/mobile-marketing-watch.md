@@ -1,6 +1,6 @@
 ---
 title: 如何將行動行銷與Marketo整合
-description: 觀看如何建立購買者角色、設定KPI、判斷您的溝通步調、使用 [!DNL Marketo’s] 行銷行事曆等，以改進您的行動行銷策略。
+description: 觀看如何建立購買者角色、設定KPI、判斷您的通訊步調、使用 [!DNL Marketo’s] 行銷行事曆等，以改進您的行動行銷策略。
 role: User
 level: Beginner
 jira: KT-10729
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 將行動行銷與Marketo整合
 
-觀察如何建立購買者角色、設定KPI、判斷您的溝通步調，以及使用 [!DNL Marketo] 行銷行事曆等，以改進您的行動行銷策略。
+觀看如何建立購買者角色、設定KPI、判斷您的通訊步調、使用[!DNL Marketo]行銷行事曆等，以改進您的行動行銷策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}

@@ -11,7 +11,7 @@ feature: Programs
 exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
 source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ ht-degree: 0%
 
 **產品指南：**
 
-* [瞭解計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
-* [建立計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
-* [最佳實務：如何組織您的計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
-* [匯入計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
+* [瞭解程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
+* [建立程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
+* [最佳實務：如何組織您的程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
+* [匯入程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
 * [瞭解標籤](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
-* [潛在客戶評分的最終指南](https://business.adobe.com/resources/guides/lead-scoring.html)
+* [引導評分的最終指南](https://business.adobe.com/resources/guides/lead-scoring.html)

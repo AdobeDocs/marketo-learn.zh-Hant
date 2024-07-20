@@ -1,6 +1,6 @@
 ---
-title: 瞭解同步 [!DNL Marketo] 至您的CRM
-description: 替換為 [!DNL Marketo] CRM同步處理，您可順暢地共用彼此的相關資訊，協助協調行銷和銷售活動。 [!DNL Marketo] 和您的CRM。 瞭解同步 [!DNL Marketo] 至您的CRM。
+title: 瞭解如何將 [!DNL Marketo] 同步至您的CRM
+description: 透過 [!DNL Marketo] CRM Sync，您可以在 [!DNL Marketo] 與您的CRM之間順暢地共用相關資訊，協助協調行銷與銷售活動。 瞭解如何將 [!DNL Marketo] 同步至您的CRM。
 role: User
 level: Beginner
 jira: KT-10744
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解同步 [!DNL Marketo] 至您的CRM
+# 瞭解如何將[!DNL Marketo]同步至您的CRM
 
-替換為 [!DNL Marketo] CRM同步處理，您可順暢地共用彼此的相關資訊，協助協調行銷和銷售活動。 [!DNL Marketo] 和您的CRM。 瞭解同步 [!DNL Marketo] 至您的CRM。
+透過[!DNL Marketo] CRM Sync，您可以在[!DNL Marketo]與您的CRM之間順暢地共用相關資訊，協助協調行銷與銷售活動。 瞭解如何將[!DNL Marketo]同步至您的CRM。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on){transcript=true}

@@ -9,19 +9,19 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
+exl-id: 3b7e6127-28fd-4dce-915d-5af9bcce984b
+source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
-
 # 記錄CRM同步錯誤，以輕鬆進行疑難排解
 
-身為Marketo Engage管理員，檢查執行個體是否與CRM同步應該是您的一項關鍵工作 [每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (在Marketo Engage介面的右上角找到)您可以在此處開始尋找和調查經常發生的同步問題，這裡有專業秘訣可協助您以有條理的方式管理執行個體健康狀況。 AdobeMarketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤的記錄，以便更輕鬆進行疑難排解。
+身為Marketo Engage管理員，檢查執行個體是否與CRM同步應該是您[每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的關鍵部分。 雖然[通知區段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (在Marketo Engage介面的右上角找到)是您開始尋找和調查頻繁同步問題的地方，但有一個專業秘訣可幫助您以有條理的方式管理執行個體的健康狀況。 AdobeMarketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤的記錄，以便更輕鬆進行疑難排解。
 
-![[同步錯誤]索引標籤的熒幕擷圖](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
+![同步處理錯誤索引標籤的熒幕擷圖](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
 ## 為什麼要保留CRM同步處理錯誤的記錄？
 
@@ -29,36 +29,35 @@ ht-degree: 0%
 
 ## 如何保留CRM同步處理錯誤的記錄
 
-開始之前，請先下載 [CRM同步錯誤記錄範本](/help/tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx).
+開始之前，請先下載[CRM同步錯誤記錄檔範本](/help/tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx)。
 
-**步驟1：** 前往 *[!UICONTROL 管理員] 區段* 在Marketo Engage中。 在 *[!UICONTROL 整合]*，按一下 *[!DNL Salesforce]*， *[!DNL Microsoft Dynamics]*，或 *[!DNL Veeva]*，視何者而定 [!DNL CRM] 您使用，然後 *[!UICONTROL 同步錯誤]* 標籤。
+**步驟1：**&#x200B;移至Marketo Engage中的&#x200B;*[!UICONTROL 管理員]區段*。 在「*[!UICONTROL 整合]*」下，根據您使用的[!DNL CRM]，按一下「*[!DNL Salesforce]*」、「*[!DNL Microsoft Dynamics]*」或「*[!DNL Veeva]*」，然後按一下「*[!UICONTROL 同步錯誤]*」索引標籤。
 
-**步驟2：** 您可以選擇 [將錯誤記錄匯出為 [!DNL CSV] 檔案透過 [!UICONTROL 篩選] 面板](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}. 如果您只有幾個小時，請直接從 *[!UICONTROL 同步錯誤]* 按Tab鍵即可。
+**步驟2：**&#x200B;您可以透過[!UICONTROL 篩選器]面板](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}，選擇將錯誤的記錄[匯出為 [!DNL CSV] 檔案。 如果您只有幾個小時，直接從&#x200B;*[!UICONTROL 同步處理錯誤]*&#x200B;索引標籤複製並貼上會是很好的方法。
 
-**步驟3：** 記下發生錯誤的日期。
+**步驟3：**&#x200B;記下發生錯誤的日期。
 
-**步驟4：** 輸入受該錯誤影響的人員記錄數。 (有時您的CRM只會擲回一個人的錯誤。 有時會有許多人同時發生相同錯誤。)
+**步驟4：**&#x200B;輸入受該錯誤影響的人員記錄數目。 (有時您的CRM只會擲回一個人的錯誤。 有時會有許多人同時發生相同錯誤。)
 
-**步驟5：** 記下受錯誤影響之個人的電子郵件地址。 這可讓您輕鬆參考並與CRM管理員討論錯誤。
+**步驟5：**&#x200B;記下受錯誤影響之個人的電子郵件地址。 這可讓您輕鬆參考並與CRM管理員討論錯誤。
 
-**步驟6：** 貼上個人記錄的連結 [!DNL Marketo Engage] 和 [!UICONTROL CRM銷售機會/連絡人] 該人員的記錄。
+**步驟6：**&#x200B;將連結貼到該人員的[!DNL Marketo Engage]和[!UICONTROL CRM銷售機會/連絡人]記錄中的人員記錄。
 
-**步驟7：** 在最後一欄，貼上錯誤的實際文字。
+**步驟7：**&#x200B;在最後一欄，貼上錯誤的實際文字。
 
 ## 接下來呢？
 
-**識別錯誤代碼：** 若要瞭解錯誤代碼，請檢視開發人員檔案中的說明 [回應層級錯誤代碼表格](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} 並尋找解決錯誤的典型後續步驟。
+**識別錯誤碼：**&#x200B;若要瞭解錯誤碼，請查閱開發人員檔案[回應層級錯誤碼表格](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"}中的說明，並尋找解決錯誤的典型後續步驟。
 
 ## 作者
 
-**艾米·戈德芬**\
+**Amy Goldfine**\
 AdobeMarketo王(2019-2022)
 *創始人， MarketingOpsAdvice.com*
 
-![艾米·戈德芬](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
+![Amy Goldfine](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
-**趙藹明**
-*Adobe採用與保留行銷經理*
+**趙子楣**
+*Adobe的採用與保留行銷經理*
 
-![趙藹明](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}
-
+![趙子楣](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}

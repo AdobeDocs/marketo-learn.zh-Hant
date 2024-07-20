@@ -1,6 +1,6 @@
 ---
 title: 瞭解如何建立和編輯表單
-description: 使用 [!DNL Marketo forms] 當潛在客戶造訪您的網站時，以漸進方式擷取個人資料。
+description: 當潛在客戶造訪您的網站時，使用 [!DNL Marketo forms] 以漸進方式擷取個人資料。
 role: User
 level: Beginner
 jira: KT-10755
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 瞭解如何建立和編輯表單
 
-使用 [!DNL Marketo forms] 當潛在客戶造訪您的網站時，以漸進方式擷取個人資料。
+當潛在客戶造訪您的網站時，使用[!DNL Marketo forms]以漸進方式擷取個人資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

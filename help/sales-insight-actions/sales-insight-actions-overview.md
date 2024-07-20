@@ -21,4 +21,4 @@ ht-degree: 0%
 ## 相關影片
 
 * [設定銷售活動記錄至 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [存取您的 [!DNL Sales Insight Actions] 例項](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [存取您的 [!DNL Sales Insight Actions] 執行個體](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

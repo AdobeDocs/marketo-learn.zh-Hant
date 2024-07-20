@@ -10,13 +10,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
+exl-id: f93a08c0-ca4f-454b-b03e-6c5ceb353ec5
+source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # 開始使用Microsoft Dynamics同步
 
@@ -26,24 +26,24 @@ ht-degree: 0%
 
 ## 視訊中使用的連結
 
-* [瞭解Microsoft Dynamics同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html)
+* [瞭解Microsoft Dynamics同步處理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html)
 
 * [下載Marketo銷售機會管理解決方案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
 
-* [更新適用於Microsoft Dynamics的Marketo解決方案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)
+* [更新Microsoft Dynamics的Marketo解決方案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)
 
 * [授予使用者端ID和應用程式註冊的同意](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
 
-* [驗證Microsoft Dynamics同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html)
+* [驗證Microsoft Dynamics同步處理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html)
 
-* [同步狀態](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html)
+* [同步處理狀態](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html)
 
-* [修正Dynamics驗證同步問題](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html)
+* [修正Dynamics驗證同步處理問題](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html)
 
 * [建立自訂Dynamics同步篩選器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html)
 
 * [檢視組織服務URL](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html)
 
-* [在Dynamics中刪除欄位之前，請先編輯要同步的欄位](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html)
+* 在Dynamics中刪除欄位之前[正在編輯要同步的欄位](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html)
 
 * [教學課程：瞭解如何將Marketo同步至您的CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
