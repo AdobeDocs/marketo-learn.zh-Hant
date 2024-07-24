@@ -5,11 +5,12 @@ role: User
 level: Beginner
 hide: true
 hidefromtoc: true
+recommendations: noDisplay, noCatalog
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 247e961f6fcd4ec287c957ac34d557f1ad844f14
+source-git-commit: 1e076e4dae4753bc265187cf0554b8e51aeee1aa
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1077'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,9 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 * 如果您不確定組織中的哪些系統管理員，請聯絡您的Adobe帳戶團隊，或聯絡Adobe支援`marketocares@marketo.com`。
 
-* 確認您的Marketo Engage訂閱將移轉至的Adobe Admin Console (或Adobe組織)。  Marketo Engage訂閱必須部署在與Dynamic Chat相同的組織中，這是與Marketo Engage整合的原生交談自動化工具。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+* 確認您的Marketo Engage訂閱將移轉至的Adobe Admin Console (或Adobe組織)。  Marketo Engage訂閱必須部署在與[Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}相同的組織中，這是與Marketo Engage整合的原生交談自動化工具。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+
+* **選擇性：** [在使用者移轉前實作單一登入(SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}。
 
 * 在[範例電子郵件區段](#announce-the-migration-timeline)中瞭解如何與您的系統管理員通訊。
 
@@ -36,7 +39,7 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 在以下影片中，Marketo Engage產品管理團隊會逐步引導您瞭解移轉歷程和期望。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
 
 在下列說明文章中，可以找到更多適用於Marketo Engage管理員的有關此主題的說明：
 
@@ -54,9 +57,9 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 * 在排程後，在您的Marketo Engage管理員和使用者的行事曆上標示移轉日期。
 
-您可以在&#x200B;**管理員** > **移轉主控台** > **預先移轉**&#x200B;中修改移轉日期，以更符合您的內部時間表。 深入瞭解重新排程及[修改移轉日期](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}的限制。
+   * 您可以在&#x200B;**管理員** > **移轉主控台** > **預先移轉**&#x200B;中修改移轉日期，以更符合您的內部時間表。 深入瞭解重新排程及[修改移轉日期](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}的限制。
 
-#### 傳送電子郵件給您的系統管理員 {#send-an-email-to-system-admin}
+* **傳送電子郵件給您的系統管理員**
 
 以下是傳送給系統管理員的範例電子郵件。 通常您的IT部門會管理您所有的Adobe授權。
 
@@ -72,7 +75,7 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 * Marketo Engage訂閱必須與Dynamic Chat位於相同的組織中，這是與Marketo Engage整合的原生交談自動化工具。
 
-* 如果您對要新增Marketo Engage的Admin Console有疑問或顧慮，請透過`marketocares@marketo.com`聯絡Adobe支援並抄送我們。
+* 如果您對該Admin Console有任何疑問或顧慮，請聯絡Adobe支援： `marketocares@marketo.com`並抄送我們。
 
 `2.`在Adobe中尋找主旨列為「管理Adobe Marketo Engage `[Package Tier]`的使用者存取權所需的動作」的電子郵件。 已在Admin Console上布建Marketo Engage授權後傳送此電子郵件。 只有系統管理員會收到這封電子郵件。 收到請立即通知我們。
 
@@ -90,7 +93,7 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 `---------------------------------------------------`
 
-#### 傳送電子郵件給Marketo Engage使用者 {#send-an-email-to-marketo-engage-users}
+* **傳送電子郵件給Marketo Engage使用者**
 
 以下是範例電子郵件，可用來向沒有管理員許可權的Marketo Engage使用者宣告即將進行的移轉。
 
@@ -116,7 +119,7 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 `1.` **準備**：您必須進行電子郵件驗證，才能移轉至Adobe識別。
 
-i.您已收到包含連結的電子郵件驗證要求電子郵件（3天有效）。 如果您的連結已過期，您可以在Marketo Engage中重新傳送驗證電子郵件，方法是前往&#x200B;**管理員** > **我的帳戶** > **帳戶設定**，然後按一下&#x200B;**重新傳送驗證**。
+i.您已收到包含連結的電子郵件驗證要求電子郵件（3天有效）。 如果您的連結已過期，您可以按一下[我的設定檔]圖示，然後瀏覽至&#x200B;**我的帳戶** > **帳戶設定** > **重新傳送驗證**，從Marketo Engage中重新傳送驗證電子郵件。
 
 二、 電子郵件驗證成功需要有效的使用者工作階段。 請先使用您的身分提供者(IdP) URL登入您的Marketo Engage訂閱。
 
