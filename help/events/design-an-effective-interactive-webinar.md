@@ -1,7 +1,7 @@
 ---
 title: 設計有效的互動式網路研討會
-description: 瞭解如何建立及設計有效的互動式網路研討會
-short-description: 瞭解如何設計有效的互動式網路研討會，這是確保您的網路研討會活動吸引人且令人難忘的第一步。
+description: 了解如何建立和設計有效的互動式網路研討會
+short-description: 了解如何設計有效的互動式網路研討會，這是確保您的網路研討會活動吸引人且令人難忘的第一步。
 jira: KT-13352
 thumbnail: 3418602.jpeg
 feature: Events
@@ -11,7 +11,7 @@ exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 

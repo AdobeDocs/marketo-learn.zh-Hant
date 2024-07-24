@@ -1,7 +1,7 @@
 ---
 title: Dynamic Chat教學課程
 description: 了解 Adobe Experience League 上的 Dynamic Chat。使用這些教學課程與文件來更了解如何使用 Dynamic Chat 建立個人化的對話。
-short-description: 使用這些教學課程與產品檔案，協助您更瞭解Dynamic Chat的各種運作方式。
+short-description: 使用這些教學課程與產品文件來更了解 Dynamic Chat 的各種運作方式。
 doc-type: overview-page
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ feature: Dynamic Chat
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 6%
+ht-degree: 11%
 
 ---
 
