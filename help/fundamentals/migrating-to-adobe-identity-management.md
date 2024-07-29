@@ -7,7 +7,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: a1248a4367a283bd1922269db3be8ed146f85648
+source-git-commit: 4a1db73e8dff8d5c39f05962b6e24ee0d380683f
 workflow-type: tm+mt
 source-wordcount: '1077'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 * 如果您不確定組織中的哪些系統管理員，請聯絡您的Adobe帳戶團隊，或聯絡Adobe支援`marketocares@marketo.com`。
 
-* 確認您的Marketo Engage訂閱將移轉至的Adobe Admin Console (或Adobe組織)。  Marketo Engage訂閱必須部署在與[Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}相同的組織中，這是與Marketo Engage整合的原生交談自動化工具。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+* 確認您的Marketo Engage訂閱將移轉至的Adobe Admin Console (或Adobe組織)。  Marketo Engage訂閱必須部署在與[Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}相同的組織中，這是與Marketo Engage整合的原生交談自動化工具。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
 
 * **選擇性：** [在使用者移轉前實作單一登入(SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}。
 
