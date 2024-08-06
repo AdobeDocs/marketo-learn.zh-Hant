@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
+source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 7%
+source-wordcount: '381'
+ht-degree: 9%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 7%
    + [建立基礎計畫的最佳實務](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用權杖個人化](/help/personalization/personalize-with-tokens.md)
    + [實作新的執行個體 — 教學課程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hant)
 + 方案與行銷活動{#programs-and-campaigns}
    + [瞭解方案和行銷活動](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
@@ -124,3 +124,4 @@ ht-degree: 7%
    + [重要報表](/help/reporting/key-reports.md)
 + 整合{#integrations}
    + [Marketo與Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [API說明 — 如何在變數中設定存取權杖](/help/integrations/api-set-access-token-variable.md)
