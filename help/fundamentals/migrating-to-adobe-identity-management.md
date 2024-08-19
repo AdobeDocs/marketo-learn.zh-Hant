@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6caaae707cb4dae45c4f05a895566adc98458e6
+source-git-commit: 4ecbe3a79ad28a38e3c630868663a7b2859428e9
 workflow-type: tm+mt
-source-wordcount: '1115'
+source-wordcount: '1170'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 * 如果您不確定組織中的哪些系統管理員，請聯絡您的Adobe帳戶團隊，或聯絡Adobe支援`marketocares@marketo.com`。
 
-* 確認您的Marketo Engage訂閱將移轉至的Adobe Admin Console (或Adobe組織)。 您可能有適用於Dynamic Chat的Adobe Admin Console，這是Marketo Engage中的原生交談自動化工具。 Marketo Engage訂閱必須部署在與[Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)相同的組織中
+* 確認您的Marketo Engage訂閱將移轉至的Adobe Admin Console (或Adobe組織)。 您可能有適用於[Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}的Adobe Admin Console，這是Marketo Engage中的原生交談自動化工具。 Marketo Engage訂閱必須部署在與Dynamic Chat相同的組織中。
 
 * 請與您的IT團隊合作，允許列出此文章最上方所列[的所有Adobe網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}，以防止移轉至Marketo Engage身分識別後Adobe存取中斷。
 
@@ -82,9 +82,11 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 * Adobe可能會向您(Admin Console的系統管理員)尋求同意，以自動將使用者移轉至我們組織的現有主控台。 在主題為「管理使用者對Adobe Marketo Engage `[Package Tier]`的存取權所需的動作」的電子郵件中，按一下「開始使用」按鈕以導覽至同意頁面。
 
-`3.` **選用：**&#x200B;在Adobe Admin Console上設定SSO （單一登入）。
+`3.`移轉後，Marketo Engage會從experience.adobe.com傳送至Adobe Experience Cloud。 請允許列出此文章最上方列出[的所有Adobe網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}，以防止我們的Marketo Engage存取中斷。
 
-* 為了讓使用SSO登入Adobe識別的使用者受益，我們要求您在使用者移轉發生之前，協助Adobe Admin Console設定SSO。
+`4.` **選用：**&#x200B;在Adobe Admin Console上設定SSO （單一登入）。
+
+* 為了協助使用SSO登入Adobe身分的使用者日後能順利使用SSO，請在使用者移轉前協助Adobe Admin Console設定SSO。
 
 感謝您在此轉換過程中的合作。 完成上述步驟後請通知我，以便我繼續進行移轉。
 
@@ -129,6 +131,8 @@ i.您已收到包含連結的電子郵件驗證要求電子郵件（3天有效�
 i.按一下[接受邀請]按鈕並使用Adobe識別登入以接受新的邀請。
 
 二、 在Adobe登入頁面上，請使用現有的Adobe ID登入。
+
+三、 您必須先登入Marketo Engage執行個體，才能在您要導覽的engage-xx.marketo.com網域上使用先前已建立書籤的URL。
 
 `3.` **連絡人**：若您在帳戶移轉後有任何問題或需要協助，或帳戶未移轉且無法存取Marketo Engage，請連絡`[your internal contact email/phone]`的Marketo Engage移轉團隊。
 
