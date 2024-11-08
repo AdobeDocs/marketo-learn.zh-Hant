@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
+source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '383'
 ht-degree: 9%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 9%
    + [訂閱中心逐步說明](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)
    + [Salesforce同步快速入門](/help/integrations/salesforce-sync-setup.md)
-   + [開始使用Microsoft Dynamics同步](/help/integrations/microsoft-dynamics-sync-setup.md)
+   + [Microsoft Dynamics同步快速入門](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [潛在客戶生命週期](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [潛在客戶生命週期逐步說明](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + 事件{#events}
@@ -119,6 +119,7 @@ ht-degree: 9%
    + [設計有效的互動式網路研討會](/help/events/design-an-effective-interactive-webinar.md)
    + [互動式網路研討會事件傳送](/help/events/interactive-webinars-event-delivery.md)
    + [互動式網路研討會發佈事件深入分析和動作](/help/events/interactive-webinars-post-event-insights-and-actions.md)
+   + [隨選網路研討會](/help/events/on-demand-webinars.md)
 + 報告與分析{#reporting}
    + [報告與分析](/help/reporting/reporting-and-analytics.md)
    + [重要報表](/help/reporting/key-reports.md)
