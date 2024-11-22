@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '377'
 ht-degree: 9%
 
 ---
@@ -66,7 +66,6 @@ ht-degree: 9%
    + [SEO與PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO和PPC逐步說明](/help/cross-channel-marketing/seo-and-ppc-watch.md)
    + [社交行銷](/help/cross-channel-marketing/social-marketing-learn.md)
-   + [社交行銷逐步說明](/help/cross-channel-marketing/social-marketing-watch.md)
    + [網頁個人化](/help/cross-channel-marketing/web-personalization-learn.md)
    + [網頁個人化逐步說明](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat{#dynamic-chat}
@@ -121,7 +120,6 @@ ht-degree: 9%
    + [互動式網路研討會發佈事件深入分析和動作](/help/events/interactive-webinars-post-event-insights-and-actions.md)
    + [隨選網路研討會](/help/events/on-demand-webinars.md)
 + 報告與分析{#reporting}
-   + [報告與分析](/help/reporting/reporting-and-analytics.md)
    + [重要報表](/help/reporting/key-reports.md)
 + 整合{#integrations}
    + [Marketo與Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
