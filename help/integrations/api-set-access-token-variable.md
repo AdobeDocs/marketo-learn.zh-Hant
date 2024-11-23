@@ -3,13 +3,13 @@ title: Marketo如何API影片 — 如何在變數中設定存取權杖
 description: 瞭解如何設定Postman應用程式，以及如何運用變數將資料儲存至變數，以利重複使用。
 feature: REST API
 role: Admin, Developer
-level: Advanced
+level: Experienced
 doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 3243c3047efa1bcb92581a58aafe17689ff945fd
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 24%
