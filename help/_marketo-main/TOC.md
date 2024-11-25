@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '370'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 9%
    + [內容行銷](/help/fundamentals/content-marketing-learn.md)
    + [購買者角色](/help/fundamentals/buyer-personas-learn.md)
    + [方案與行銷活動](/help/fundamentals/programs-and-campaigns.md)
-   + [瀏覽UI](/help/fundamentals/ui-navigation.md)
    + [組織新執行個體的最佳實務](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎計畫的最佳實務](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用權杖個人化](/help/personalization/personalize-with-tokens.md)
@@ -30,12 +29,10 @@ ht-degree: 9%
 + 方案與行銷活動{#programs-and-campaigns}
    + [瞭解方案和行銷活動](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
-   + [電子郵件程式](/help/programs/email-programs.md)
    + [活動計畫](/help/programs/event-programs.md)
    + 預設程式{#default-programs}
       + [建立和測量預設程式](/help/programs/create-and-measure-default-programs.md)
       + [善用預設程式的彈性](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [參與計畫](/help/programs/engagement-programs.md)
    + 參與對應{#engagement-maps}
       + [參與地圖總覽](/help/engagement-maps/engagement-map-overview.md)
       + [參與地圖巢狀行銷活動](/help/engagement-maps/engagement-map-nested-campaign.md)
