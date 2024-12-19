@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 2172f08f9a6171ef3a25cf6250e2f53eab8195fe
+source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
 workflow-type: tm+mt
-source-wordcount: '1170'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,8 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 * 請與您的IT團隊合作，允許列出此文章最上方所列[的所有Adobe網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}，以防止移轉至Marketo Engage身分識別後Adobe存取中斷。
 
 * **選擇性：** [在使用者移轉前實作單一登入(SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}。
+
+* **選擇性：**&#x200B;在使用者移轉之前，自訂[想要的最長工作階段存留期](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}，讓Marketo Engage使用者保持驗證。
 
 * 在[範例電子郵件區段](#announce-the-migration-timeline)中瞭解如何與您的系統管理員通訊。
 
@@ -84,9 +86,13 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 `3.`移轉後，Marketo Engage會從experience.adobe.com傳送至Adobe Experience Cloud。 請允許列出此文章最上方列出[的所有Adobe網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}，以防止我們的Marketo Engage存取中斷。
 
-`4.` **選用：**&#x200B;在Adobe Admin Console上設定SSO （單一登入）。
+`4.` **選用：**&#x200B;在Adobe Admin Console中設定SSO （單一登入）。
 
-* 為了協助使用SSO登入Adobe身分的使用者日後能順利使用SSO，請在使用者移轉前協助Adobe Admin Console設定SSO。
+* 為了讓使用SSO登入Adobe識別的使用者受益，請在使用者移轉發生之前協助Adobe Admin Console中的SSO設定。
+
+`5.` **選用：**&#x200B;在Adobe Admin Console中設定較長的[工作階段存留期上限](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}。
+
+* 為避免使用者必須經常登入，請在「進階設定」中使用更長的持續時間來自訂工作階段存留期。
 
 感謝您在此轉換過程中的合作。 完成上述步驟後請通知我，以便我繼續進行移轉。
 
