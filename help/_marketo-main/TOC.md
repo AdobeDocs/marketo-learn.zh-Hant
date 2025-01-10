@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 9%
+source-wordcount: '430'
+ht-degree: 8%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 9%
    + [對話方塊預覽](/help/dynamic-chat/dialogue-preview.md)
    + [靜態內容全球化](/help/dynamic-chat/globalization-of-static-content.md)
    + [對話表單](/help/dynamic-chat/conversational-forms.md)
-   + [Conversations SDK](/help/dynamic-chat/conversations-sdk.md)
+   + [交談SDK](/help/dynamic-chat/conversations-sdk.md)
    + [可重複使用的流程](/help/dynamic-chat/reusable-flows.md)
    + [對話式登陸頁面](/help/dynamic-chat/conversational-landing-pages.md)
    + [將訪客連結至即時代理程式](/help/dynamic-chat/connect-visitors-to-live-agents.md)
@@ -121,3 +121,16 @@ ht-degree: 9%
 + 整合{#integrations}
    + [Marketo與Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API說明 — 如何在變數中設定存取權杖](/help/integrations/api-set-access-token-variable.md)
++ 管理重複專案{#manage-duplicates}
+   + [管理重複專案簡介](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [瞭解重複專案發生的原因](/help/managing-duplicates/why-duplicates-occur.md)
+   + [識別並防止重複記錄](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [決定何時需要重複記錄](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [手動合併重複記錄](/help/managing-duplicates/merge-manually.md)
+   + [大量合併重複專案第1部分](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [大量合併重複專案（第2部分）](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [大量合併重複部分3](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [自動化復寫管理第1部分](/help/managing-duplicates/automate-integration-part-1.md)
+   + [自動化重複資料管理第2部分](/help/managing-duplicates/automate-integration-part-2.md)
+   + [簡化重複資料管理](/help/managing-duplicates/simplify-acs.md)
+   + [選擇管理重複專案的最佳策略](/help/managing-duplicates/duplicate-strategy.md)
