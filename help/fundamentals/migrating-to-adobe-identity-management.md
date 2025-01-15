@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
+source-git-commit: b4f9ce6cfc8126559e94985c540ec9766a56310e
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 * 請與您的IT團隊合作，允許列出此文章最上方所列[的所有Adobe網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}，以防止移轉至Marketo Engage身分識別後Adobe存取中斷。
 
 * **選擇性：** [在使用者移轉前實作單一登入(SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}。
+
+  >[!NOTE]
+  >
+  >Marketo Engage支援的SSO與Adobe Admin Console SSO之間有所差異。 因此，您可能需要實作組態的變更。
 
 * **選擇性：**&#x200B;在使用者移轉之前，自訂[想要的最長工作階段存留期](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}，讓Marketo Engage使用者保持驗證。
 
