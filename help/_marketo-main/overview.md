@@ -3,7 +3,7 @@ title: Marketo Engage 教學課程
 description: 觀看 [!DNL Marketo Engage]的教學課程影片。 讓您更了解如何使用行銷自動化功能等。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 19%
@@ -23,7 +23,7 @@ ht-degree: 19%
 
 ## 新增功能 {#whats-new}
 
-* [實作即時聊天的最佳實務](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+* [實作即時聊天的最佳實務](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _瞭解在Dynamic Chat中實作即時聊天功能時遵循的最佳實務。_
 
 * [互動式網路研討會總覽](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
