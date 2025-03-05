@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 + 基礎知識{#fundamentals}
    + [目標與策略](/help/fundamentals/goals-and-strategy-learn.md)
    + [組織結構](/help/fundamentals/organizational-structure-learn.md)
-   + [移轉至AdobeIdentity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
+   + [移轉至Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [內容行銷](/help/fundamentals/content-marketing-learn.md)
    + [購買者角色](/help/fundamentals/buyer-personas-learn.md)
    + [方案與行銷活動](/help/fundamentals/programs-and-campaigns.md)
@@ -65,7 +65,7 @@ ht-degree: 8%
    + [社交行銷](/help/cross-channel-marketing/social-marketing-learn.md)
    + [網頁個人化](/help/cross-channel-marketing/web-personalization-learn.md)
    + [網頁個人化逐步說明](/help/cross-channel-marketing/web-personalization-watch.md)
-+ Dynamic Chat{#dynamic-chat}
++ Dynamic Chat {#dynamic-chat}
    + [概觀](/help/dynamic-chat/dynamic-chat-overview.md)
    + [產品導覽[2023]](/help/dynamic-chat/product-tour.md)
    + [產品導覽[2022]](/help/dynamic-chat/product-tour-2022.md)
@@ -108,6 +108,7 @@ ht-degree: 8%
    + [建立事件程式](/help/events/events-learn.md)
    + [網路研討會](/help/events/webinar-learn.md)
    + [網路研討會逐步說明](/help/events/webinar-watch.md)
+   + [互動式網路研討會概觀](/help/events/interactive-webinars-overview.md)
    + [互動式網路研討會使用者和授權管理](/help/events/interactive-webinars-user-and-license-management.md)
    + [互動式網路研討會活動方案建立](/help/events/interactive-webinars-event-program-creation.md)
    + [互動式網路研討會活動計畫總覽](/help/events/interactive-webinars-event-program-overview.md)
@@ -119,7 +120,7 @@ ht-degree: 8%
 + 報告與分析{#reporting}
    + [重要報表](/help/reporting/key-reports.md)
 + 整合{#integrations}
-   + [Marketo與Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API說明 — 如何在變數中設定存取權杖](/help/integrations/api-set-access-token-variable.md)
 + 管理重複專案{#manage-duplicates}
    + [管理重複專案簡介](/help/managing-duplicates/introduction-managing-duplicates.md)
