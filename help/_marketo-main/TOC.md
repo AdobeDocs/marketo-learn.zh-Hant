@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
+source-git-commit: b1bca74399683782c4691882f2239db60d117286
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 8%
+source-wordcount: '439'
+ht-degree: 7%
 
 ---
 
@@ -84,6 +84,7 @@ ht-degree: 8%
    + [交談SDK](/help/dynamic-chat/conversations-sdk.md)
    + [可重複使用的流程](/help/dynamic-chat/reusable-flows.md)
    + [對話式登陸頁面](/help/dynamic-chat/conversational-landing-pages.md)
+   + [實作即時聊天的最佳實務](/help/dynamic-chat/live-chat-best-practices.md)
    + [將訪客連結至即時代理程式](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [會議預訂](/help/dynamic-chat/meeting-booking.md)
    + [推動GenAI支援的對話](/help/dynamic-chat/gen-ai-features.md)

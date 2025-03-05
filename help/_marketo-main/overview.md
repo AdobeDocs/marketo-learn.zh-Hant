@@ -3,10 +3,10 @@ title: Marketo Engage 教學課程
 description: 觀看 [!DNL Marketo Engage]的教學課程影片。 讓您更了解如何使用行銷自動化功能等。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
+source-git-commit: b1bca74399683782c4691882f2239db60d117286
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 24%
+ht-degree: 19%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 24%
 
 ## 新增功能 {#whats-new}
 
+* [實作即時聊天的最佳實務](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+  _瞭解在Dynamic Chat中實作即時聊天功能時遵循的最佳實務。_
+
 * [互動式網路研討會總覽](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _深入瞭解Marketo Engage內建的互動式網路研討會平台。_
 
 * [移轉至Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _瞭解如何導覽Adobe Identity Management移轉，以便開始集中管理使用者的Adobe Marketo Engage及其他Adobe帳戶和產品。_
-
-* [互動式網路研討會活動後的深入分析與行動](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-  _瞭解在何處尋找有關互動式網路研討會活動效能和參與情況的詳細資訊。_
 
 ## 最受歡迎影片 {#most-popular-videos}
 
