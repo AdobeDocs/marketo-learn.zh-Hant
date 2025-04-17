@@ -4,7 +4,7 @@ description: 瞭解如何使用REST API在Marketo Engage中觸發Smart Campaign�
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+如果您使用權杖來動態插入影像URL （例如`{{my.WebinarImage}}`），您必須將權杖包裝在HTML影像標籤中：
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->如果您使用權杖來動態插入影像URL （例如`{{my.WebinarImage}}`），您必須將權杖包裝在HTML影像標籤中：
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >除非將權杖放在有效的影像標籤中，否則Marketo Enagage **不會**&#x200B;轉譯影像。
 
