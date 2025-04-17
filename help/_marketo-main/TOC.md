@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 7%
+source-wordcount: '454'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 7%
 # [!DNL Marketo Engage]個教學課程 {#tutorials}
 
 + [[!DNL Marketo Engage] 教學課程](/help/_marketo-main/overview.md)
-+ 基礎知識{#fundamentals}
++ 基礎知識 {#fundamentals}
    + [目標與策略](/help/fundamentals/goals-and-strategy-learn.md)
    + [組織結構](/help/fundamentals/organizational-structure-learn.md)
    + [移轉至Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
@@ -26,18 +26,18 @@ ht-degree: 7%
    + [使用權杖個人化](/help/personalization/personalize-with-tokens.md)
    + [實作新的執行個體 — 教學課程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hant)
-+ 方案與行銷活動{#programs-and-campaigns}
++ 方案與行銷活動 {#programs-and-campaigns}
    + [瞭解方案和行銷活動](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
    + [活動計畫](/help/programs/event-programs.md)
-   + 預設程式{#default-programs}
+   + 預設計畫 {#default-programs}
       + [建立和測量預設程式](/help/programs/create-and-measure-default-programs.md)
       + [善用預設程式的彈性](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + 參與對應{#engagement-maps}
+   + 參與圖 {#engagement-maps}
       + [參與地圖總覽](/help/engagement-maps/engagement-map-overview.md)
       + [參與地圖巢狀行銷活動](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [參與地圖錯誤偵測和解決](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+ 電子郵件行銷{#email-marketing}
++ 電子郵件行銷 {#email-marketing}
    + [排程的電子郵件](/help/email-marketing/scheduled-email-learn.md)
    + [排程電子郵件逐步說明](/help/email-marketing/scheduled-email-watch.md)
    + [個人化電子報](/help/email-marketing/personalized-newsletter-learn.md)
@@ -48,7 +48,7 @@ ht-degree: 7%
    + [A/B測試逐步說明](/help/email-marketing/ab-testing-watch.md)
    + [登陸頁面](/help/email-marketing/landing-pages-learn.md)
    + [登陸頁面逐步說明](/help/email-marketing/landing-pages-watch.md)
-   + [Forms](/help/email-marketing/forms-learn.md)
+   + [表單](/help/email-marketing/forms-learn.md)
    + [電子郵件傳遞能力](/help/email-marketing/email-deliverability-learn.md)
    + [電子郵件傳遞能力逐步說明](/help/email-marketing/email-deliverability-watch.md)
    + [已觸發電子郵件](/help/email-marketing/triggered-email-learn.md)
@@ -56,7 +56,7 @@ ht-degree: 7%
    + [潛在客戶培養](/help/email-marketing/lead-nuturing-learn.md)
    + [動態和預測性內容](/help/email-marketing/dynamic-and-predictive-content-learn.md)
    + [篩選電子郵件機器人活動 — 設定](/help/filtering-email-bot-activities/setup.md)
-+ 跨頻道行銷{#cross-channel-marketing}
++ 跨頻道行銷 {#cross-channel-marketing}
    + [Forms逐步說明](/help/email-marketing/forms-watch.md)
    + [整合行動裝置行銷](/help/cross-channel-marketing/mobile-marketing-learn.md)
    + [行動行銷逐步說明](/help/cross-channel-marketing/mobile-marketing-watch.md)
@@ -89,12 +89,12 @@ ht-degree: 7%
    + [會議預訂](/help/dynamic-chat/meeting-booking.md)
    + [推動GenAI支援的對話](/help/dynamic-chat/gen-ai-features.md)
    + [參與報告](/help/dynamic-chat/engagement-report.md)
-+ 銷售分析動作{#sales-insight-actions}
++ 銷售Insight動作 {#sales-insight-actions}
    + [概觀](/help/sales-insight-actions/overview.md)
-   + [銷售分析動作概觀](/help/sales-insight-actions/sales-insight-actions-overview.md)
-   + [存取您的Sales Insight Actions例項](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [銷售Insight動作概觀](/help/sales-insight-actions/sales-insight-actions-overview.md)
+   + [存取您的Sales Insight Actions執行個體](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [設定銷售活動記錄至 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ 潛在客戶與資料管理{#lead-and-data-management}
++ 潛在客戶與資料管理 {#lead-and-data-management}
    + [銷售機會/個人評分](/help/lead-and-data-management/lead-scoring-learn.md)
    + [銷售機會/個人評分逐步說明](/help/lead-and-data-management/lead-scoring-watch.md)
    + [訂閱中心](/help/lead-and-data-management/subscription-center-learn.md)
@@ -104,7 +104,7 @@ ht-degree: 7%
    + [Microsoft Dynamics同步快速入門](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [潛在客戶生命週期](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [潛在客戶生命週期逐步說明](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ 事件{#events}
++ 活動 {#events}
    + [活動逐步說明](/help/events/events-watch.md)
    + [建立事件程式](/help/events/events-learn.md)
    + [網路研討會](/help/events/webinar-learn.md)
@@ -118,12 +118,13 @@ ht-degree: 7%
    + [互動式網路研討會事件傳送](/help/events/interactive-webinars-event-delivery.md)
    + [互動式網路研討會發佈事件深入分析和動作](/help/events/interactive-webinars-post-event-insights-and-actions.md)
    + [隨選網路研討會](/help/events/on-demand-webinars.md)
-+ 報告與分析{#reporting}
++ 報告與分析 {#reporting}
    + [重要報表](/help/reporting/key-reports.md)
-+ 整合{#integrations}
++ 整合 {#integrations}
    + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API說明 — 如何在變數中設定存取權杖](/help/integrations/api-set-access-token-variable.md)
-+ 管理重複專案{#manage-duplicates}
+   + [如何使用REST API和權杖在Marketo Engage中觸發Smart Campaign](/help/integrations/trigger-smart-campaign-rest-api.md)
++ 管理重複專案 {#manage-duplicates}
    + [管理重複專案簡介](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [瞭解重複專案發生的原因](/help/managing-duplicates/why-duplicates-occur.md)
    + [識別並防止重複記錄](/help/managing-duplicates/identify-prevent-duplicates.md)
