@@ -26,4 +26,4 @@ ht-degree: 0%
 - 根據訪客選擇/興趣的建議內容
 - 共用檔案及追蹤參與
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445112/?learn=on&captions=chi_hant)

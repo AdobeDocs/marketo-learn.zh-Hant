@@ -26,4 +26,4 @@ ht-degree: 0%
 * 確保您永遠與手工作業者交談
 * 表單填寫後或自動聊天對話期間提供
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452070/?learn=on&captions=chi_hant)

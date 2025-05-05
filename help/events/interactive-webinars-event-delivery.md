@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何以最佳方式提供互動式網路研討會活動，以實現您的目標並吸引與會者。 確保您的內容會產生興趣，讓您透過不同的參與工具來徵集意圖，以協助更佳的個人化培養和細分。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440048/?learn=on&captions=chi_hant)

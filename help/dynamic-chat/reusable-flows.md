@@ -20,4 +20,4 @@ ht-degree: 0%
 
 使用新的對話式流量卡，簡化對話的設計及管理。 建立一次對話串流，並將其重新用於多個對話方塊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446656/?learn=on&captions=chi_hant)

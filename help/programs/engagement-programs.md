@@ -20,7 +20,7 @@ ht-degree: 0%
 
 依照此逐步教學課程，建置您的第一個參與計畫。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true} 
+>[!VIDEO](https://video.tv.adobe.com/v/3452690/?learn=on&captions=chi_hant){transcript=true} 
 
 ## 其他資源：
 

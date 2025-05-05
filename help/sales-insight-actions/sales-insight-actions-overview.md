@@ -16,7 +16,7 @@ ht-degree: 0%
 
 透過行銷支援的智慧和參與工具，透過銷售分析動作，在單一工作流程中加速遠景規劃。
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447256/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 相關影片
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解參與地圖如何提高您的行銷活動速度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423303/?learn=on&captions=chi_hant){transcript=true}

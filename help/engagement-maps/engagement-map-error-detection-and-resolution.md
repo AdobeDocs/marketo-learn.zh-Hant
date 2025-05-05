@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解Engagement Map如何協助疑難排解和快速修正行銷活動問題
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423285/?learn=on&captions=chi_hant){transcript=true}

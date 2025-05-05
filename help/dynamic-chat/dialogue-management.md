@@ -18,7 +18,7 @@ ht-degree: 0%
 
 設計鎖定目標的個人化對話是為每位網頁訪客打造卓越的對話體驗的關鍵所在。 瞭解如何建立和管理對話方塊。
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443806/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 更多實用的影片
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 透過重新將清除的資料匯入Marketo Engage，並使用作業行銷活動有效管理重複專案，完成大量合併。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452758/?learn=on&enablevpops&captions=chi_hant)

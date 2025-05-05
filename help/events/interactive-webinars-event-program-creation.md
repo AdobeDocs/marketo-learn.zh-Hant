@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何設定事件計畫，讓您以Marketo Engage建立及排程互動式網路研討會活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443423/?learn=on&captions=chi_hant)

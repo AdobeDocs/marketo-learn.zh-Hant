@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何在資料庫區段中手動合併重複專案，以精確和控制方式處理較少的記錄。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443661/?learn=on&enablevpops&captions=chi_hant)

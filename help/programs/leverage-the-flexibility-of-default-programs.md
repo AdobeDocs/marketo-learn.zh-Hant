@@ -22,4 +22,4 @@ ht-degree: 0%
 在四種計畫型別中，預設計畫是最靈活的，您可以利用要建立的內容來獲得創意。
 瞭解兩個常見的使用案例：網頁表單和付費媒體產生人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453865?learn=on&captions=chi_hant){transcript=true}

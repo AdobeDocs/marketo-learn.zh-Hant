@@ -20,4 +20,4 @@ ht-degree: 0%
 
 重述Marketo Engage中處理重複專案的主要解決方案，並根據您團隊的需求和資源選擇最佳解決方案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436651/?learn=on&enablevpops&captions=chi_hant)

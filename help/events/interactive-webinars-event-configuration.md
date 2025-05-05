@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何在傳送前設定您的互動式網路研討會事件，以符合網路研討會的目標，並確保傳送足夠有效，以吸引參與者參與，進而產生品牌、產品和服務興趣及號召意圖。 等等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448995/?learn=on&captions=chi_hant)

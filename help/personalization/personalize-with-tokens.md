@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何在Marketo程式中使用權杖。 在Marketo程式中運用Token有助於個人化、加快程式建置時間，並降低拼寫錯誤或人為錯誤的可能性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423547/?learn=on&captions=chi_hant){transcript=true}

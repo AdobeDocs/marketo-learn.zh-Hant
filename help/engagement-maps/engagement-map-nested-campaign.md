@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何破譯相互連線和深度巢狀的行銷活動，以使用參與地圖更清楚地瞭解整個客戶歷程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423294/?learn=on&captions=chi_hant){transcript=true}

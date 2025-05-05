@@ -18,4 +18,4 @@ ht-degree: 0%
 
 本指南可協助您啟用透過機器人識別電子郵件活動的功能，以及如何篩選及建立排除機器人的行銷活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445123/?quality=12&learn=on&captions=chi_hant){transcript=true}

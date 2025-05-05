@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat]現在已與Document CloudPDF內嵌API整合。 這可讓您在您以[!UICONTROL Dynamic Chat]設計的個人化交談中分享PDF檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447993/?quality=12&learn=on&captions=chi_hant){transcript=true}

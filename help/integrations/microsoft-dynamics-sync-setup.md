@@ -22,7 +22,7 @@ ht-degree: 0%
 
 瞭解Microsoft Dynamics 365同步如何運作，並正確設定設定，以允許兩個系統相互溝通。 本教學課程將逐步引導您瞭解同步如何運作、下載Marketo銷售機會管理(MLM)解決方案、安裝伺服器對伺服器連線的MLM解決方案，以及連線兩個系統。 我們也會分享其他驗證同步、限制同步處理記錄數以及預估同步處理時間的秘訣與技巧，協助您設定Microsoft Dynamics同步處理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430210/?learn=on&captions=chi_hant)
 
 ## 視訊中使用的連結
 

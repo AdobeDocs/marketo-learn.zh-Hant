@@ -20,7 +20,7 @@ ht-degree: 0%
 
 快速搜尋可協助您在資料流設計工具中按一下即可找到任何卡片。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437254/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 更多實用的影片
 

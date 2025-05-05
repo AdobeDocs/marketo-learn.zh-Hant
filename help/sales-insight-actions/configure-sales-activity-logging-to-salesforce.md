@@ -16,7 +16,7 @@ ht-degree: 0%
 
 瞭解如何設定銷售分析動作活動，並將其記錄到您的[!DNL Salesforce]帳戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449210/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 相關影片
 

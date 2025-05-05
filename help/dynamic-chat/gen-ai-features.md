@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解如何推動GenAI支援的對話，並讓訪客能夠提出問題、快速回應並為您的對話產生摘要。 直接在您的Marketo執行個體中運用對話式深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454482/?learn=on&captions=chi_hant)

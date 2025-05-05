@@ -20,4 +20,4 @@ ht-degree: 0%
 
 探索用於透過結構化工作流程和定期稽核發現重複專案並防止其發生的工具和提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447116/?learn=on&enablevpops&captions=chi_hant)

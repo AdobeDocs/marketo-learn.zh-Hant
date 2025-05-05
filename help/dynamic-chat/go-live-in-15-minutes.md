@@ -18,6 +18,6 @@ ht-degree: 0%
 
 逐步指南可協助您在15分鐘內使用[!UICONTROL Dynamic Chat]開始您的第一個對話方塊！
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452679/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 *注意：若您不知道如何存取[!UICONTROL Dynamic Chat]，請觀看[這裡有短片](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=zh-Hant)，可協助您新增自己或其他使用者至[!UICONTROL Dynamic Chat]。*

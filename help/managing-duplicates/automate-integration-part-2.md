@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何設定欄位對應、合併邏輯和排程，以自動化Marketo Engage和iPaaS工具之間的重複管理。 此影片示範的工作流程會使用Vertify當作範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453818/?learn=on&enablevpops&captions=chi_hant)

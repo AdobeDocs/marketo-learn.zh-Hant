@@ -20,7 +20,7 @@ ht-degree: 0%
 
 觀看此影片，以逐步瞭解並建置您的第一個活動程式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454005/?learn=on&captions=chi_hant){transcript=true}
 
 ## 其他資源
 

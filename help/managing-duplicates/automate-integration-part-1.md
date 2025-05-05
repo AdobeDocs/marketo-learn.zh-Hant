@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何使用API與Vertify或Workato等iPaaS工具整合，簡化Marketo Engage中的重複管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441940/?learn=on&enablevpops&captions=chi_hant)

@@ -22,4 +22,4 @@ ht-degree: 4%
 
 在我們的逐步影片中，我們會引導您完成程式，讓您輕鬆為您的企業實作這個強大的工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443367/?learn=on&captions=chi_hant)

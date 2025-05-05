@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解在何處可以找到有關互動式網路研討會所傳遞之活動績效和參與的詳細資訊。 根據收集的參與見解和意圖，探索以個人化方式細分、評分和培養潛在客戶/參與者的動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447859/?learn=on&captions=chi_hant)

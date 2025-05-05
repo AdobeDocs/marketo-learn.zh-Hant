@@ -20,4 +20,4 @@ ht-degree: 0%
 
 探索Adobe的Professional Services如何協助您輕鬆管理重複記錄。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436795/?learn=on&enablevpops&captions=chi_hant)

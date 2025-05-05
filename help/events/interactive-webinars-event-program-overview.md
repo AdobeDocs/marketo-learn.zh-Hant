@@ -20,4 +20,4 @@ ht-degree: 0%
 
 快速瀏覽互動式網路研討會事件計畫中的各種元素，並瞭解您可以採取的動作以完善它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450091/?learn=on&captions=chi_hant)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解重複專案如何源自各種來源，包括CRM同步、表單填寫和資料匯入，以及如何將其最小化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443901/?learn=on&enablevpops&captions=chi_hant)

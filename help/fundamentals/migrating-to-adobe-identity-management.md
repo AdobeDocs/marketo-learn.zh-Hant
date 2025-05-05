@@ -46,7 +46,7 @@ Adobe正改善您管理Adobe Marketo Engage訂閱和使用者的方式。 我們
 
 在以下影片中，Marketo Engage產品管理團隊會逐步引導您瞭解移轉歷程和期望。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432367/?t=170/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 若需Marketo Engage管理員有關此主題的更多說明，請參閱下列說明文章：
 

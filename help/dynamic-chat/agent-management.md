@@ -21,4 +21,4 @@ ht-degree: 0%
 本指南可協助您瞭解您可從一處管理所有代理程式（這些代理程式將與您的Web訪客互動）的所有功能。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424829/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447244/?learn=on&captions=chi_hant)

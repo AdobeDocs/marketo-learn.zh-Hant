@@ -20,7 +20,7 @@ ht-degree: 0%
 
 使用對話方塊預覽功能，在發佈之前預覽對話方塊會非常簡單。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436871/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 更多實用的影片
 

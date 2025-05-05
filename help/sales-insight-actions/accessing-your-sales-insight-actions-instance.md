@@ -16,7 +16,7 @@ ht-degree: 0%
 
 這部影片會概略介紹如何存取您的[!UICONTROL 銷售分析動作]帳戶，以建立內容、設定帳戶、邀請新使用者等。
 
->[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441594/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 相關影片
 

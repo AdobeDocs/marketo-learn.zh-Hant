@@ -20,7 +20,7 @@ ht-degree: 0%
 
 第一次使用Marketo Engage時，組織是關鍵。 在執行個體中保持井然有序，可讓您和您的同事輕鬆追蹤行銷活動、計畫和資產。 瞭解如何使用資料夾、標準命名慣例和功能（例如複製），在[!UICONTROL 行銷活動]中組織導覽樹狀結構，以便在新的[!DNL Marketo Engage]執行個體中輕鬆與同事合作。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428941/?learn=on&captions=chi_hant){transcript=true}
 
 ## 其他資源
 

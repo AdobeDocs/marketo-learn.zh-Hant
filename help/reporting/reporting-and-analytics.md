@@ -22,7 +22,7 @@ ht-degree: 2%
 
 瞭解如何導覽Analytics和「資料庫」區段，在Marketo Engage中提取不同的現成報告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446431/?learn=on&captions=chi_hant){transcript=true}
 
 ## 其他資源
 

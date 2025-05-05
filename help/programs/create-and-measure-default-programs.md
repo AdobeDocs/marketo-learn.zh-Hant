@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何建立並評估預設程式是否成功。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432191/?learn=on&captions=chi_hant){transcript=true}
