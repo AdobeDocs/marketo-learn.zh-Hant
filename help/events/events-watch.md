@@ -24,4 +24,4 @@ ht-degree: 0%
 
 請參閱產品指南以瞭解如何建立事件程式的詳細資訊：
 
-* [建立新的活動方案檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [建立新的活動方案檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=zh-Hant)

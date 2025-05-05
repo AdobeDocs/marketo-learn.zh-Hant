@@ -24,4 +24,4 @@ ht-degree: 0%
 
 請參閱產品指南，以取得電子郵件方案的詳細資訊：
 
-* [瞭解電子郵件程式檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [瞭解電子郵件程式檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=zh-Hant)

@@ -23,13 +23,13 @@ ht-degree: 19%
 
 ## 新增功能 {#whats-new}
 
-* [實作即時聊天的最佳實務](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
+* [實作即時聊天的最佳實務](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _瞭解在Dynamic Chat中實作即時聊天功能時遵循的最佳實務。_
 
-* [互動式網路研討會總覽](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+* [互動式網路研討會總覽](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _深入瞭解Marketo Engage內建的互動式網路研討會平台。_
 
-* [移轉至Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+* [移轉至Adobe Identity Management](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _瞭解如何導覽Adobe Identity Management移轉，以便開始集中管理使用者的Adobe Marketo Engage及其他Adobe帳戶和產品。_
 
 ## 最受歡迎影片 {#most-popular-videos}
@@ -41,8 +41,8 @@ ht-degree: 19%
 <div><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/programs-and-campaigns/smart-campaigns-101"><strong>Smart Campaigns 101</strong></a></div>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="對話式Forms的縮圖影像" src="assets/tutorials-homepage-2.png"></a>
-<div><a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong>對話式Forms</strong></a></div>
+<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="對話式Forms的縮圖影像" src="assets/tutorials-homepage-2.png"></a>
+<div><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong>對話式Forms</strong></a></div>
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns"><img alt="瞭解Marketo方案和行銷活動" src="assets/tutorials-homepage-3.png" /></a>

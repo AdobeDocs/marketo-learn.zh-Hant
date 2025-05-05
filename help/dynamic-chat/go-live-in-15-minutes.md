@@ -20,4 +20,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
 
-*注意：若您不知道如何存取[!UICONTROL Dynamic Chat]，請觀看[這裡有短片](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en)，可協助您新增自己或其他使用者至[!UICONTROL Dynamic Chat]。*
+*注意：若您不知道如何存取[!UICONTROL Dynamic Chat]，請觀看[這裡有短片](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=zh-Hant)，可協助您新增自己或其他使用者至[!UICONTROL Dynamic Chat]。*

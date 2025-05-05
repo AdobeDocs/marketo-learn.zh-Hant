@@ -23,4 +23,4 @@ ht-degree: 0%
 + [開發執行個體治理指南](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [以視覺化方式呈現您的行銷技術棧疊](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [計畫啟動前品質保證程式](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)

@@ -24,11 +24,11 @@ ht-degree: 24%
 >
 >在開始播放此影片之前，請先以AOI角色建立僅API使用者名稱，並建立Launchpad服務。 請依照下列文章中的步驟操作：
 >
->* [建立僅限API的使用者角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [建立僅限API的使用者角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [建立僅限API的使用者](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [建立僅限API的使用者](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 此影片中使用的&#x200B;**參考：**
 
@@ -41,6 +41,6 @@ var jsonData = pm.response.json();
 pm.environment.set("access_token", jsonData.access_token);
 ```
 
-* [Marketo Engage開發人員檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
+* [Marketo Engage開發人員檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)

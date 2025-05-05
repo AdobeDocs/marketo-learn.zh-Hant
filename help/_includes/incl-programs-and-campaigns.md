@@ -15,8 +15,8 @@ ht-degree: 0%
 
 如需詳細資訊，請參閱相關的產品指南：
 
-* [瞭解程式檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [瞭解Smart Campaign檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [瞭解程式檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=zh-Hant)
+* [瞭解Smart Campaign檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=zh-Hant)
 
 向同業學習如何使用智慧行銷活動：
 

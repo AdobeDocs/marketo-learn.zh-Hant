@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}專門與Salesforce CRM整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}專門與Salesforce CRM整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 ## 主要Tutorials {#featured-tutorials}
 
@@ -47,18 +47,18 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><img alt="銷售分析動作功能概觀的縮圖影像" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>銷售分析動作功能概觀</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html?lang=zh-Hant"><img alt="銷售分析動作功能概觀的縮圖影像" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html?lang=zh-Hant"><strong>銷售分析動作功能概觀</strong></a></div>
 <p><em>運用行銷支援的智慧和參與工具，加速遠景規劃。</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="[!DNL Sales Insight Actions]使用者入門指南的縮圖影像" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions]使用者上線指南</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html?lang=zh-Hant"><img alt="[!DNL Sales Insight Actions]使用者入門指南的縮圖影像" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html?lang=zh-Hant"><strong>[!DNL Sales Insight Actions]使用者上線指南</strong></a></div>
 <p><em>新使用者開始使用時需要遵循的步驟。</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><img alt="動作資料同步常見問題的縮圖影像" src="assets/actions-data-sync-faq-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>動作資料同步常見問題集</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html?lang=zh-Hant"><img alt="動作資料同步常見問題的縮圖影像" src="assets/actions-data-sync-faq-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html?lang=zh-Hant"><strong>動作資料同步常見問題集</strong></a></div>
 <p><em>與資料統一同步如何運作相關的常見問題。</em></p>
 </td>
 </tr>

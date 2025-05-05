@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [Marketo Engage字彙表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [Marketo Engage字彙表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=zh-Hant)
 使用Marketo時可能會遇到的許多辭彙定義。
-* [圖示字彙表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+* [圖示字彙表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=zh-Hant)
 Marketo Engage介面的圖示字彙表。
