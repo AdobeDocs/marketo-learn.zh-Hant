@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 9%
+source-wordcount: '470'
+ht-degree: 8%
 
 ---
 
@@ -17,18 +17,22 @@ ht-degree: 9%
 + 基礎知識 {#fundamentals}
    + [目標與策略](/help/fundamentals/goals-and-strategy-learn.md)
    + [組織結構](/help/fundamentals/organizational-structure-learn.md)
-   + [移轉至Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [內容行銷](/help/fundamentals/content-marketing-learn.md)
    + [購買者角色](/help/fundamentals/buyer-personas-learn.md)
+   + [智慧清單](/help/fundamentals/smart-lists.md)
+   + [靜態清單](/help/fundamentals/static-lists.md)
    + [方案與行銷活動](/help/fundamentals/programs-and-campaigns.md)
+   + [移轉至Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [組織新執行個體的最佳實務](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎計畫的最佳實務](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用權杖個人化](/help/personalization/personalize-with-tokens.md)
-   + [實作新的執行個體 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/experiences-by-you/implementing-new-instance/overview)
+   + [實作新的執行個體 — 教學課程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hant)
 + 方案與行銷活動 {#programs-and-campaigns}
    + [瞭解方案和行銷活動](/help/programs/understanding-programs-and-campaigns.md)
+   + [瞭解計畫會籍](/help/programs/understanding-program-membership.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
+   + [管道、標籤和期間成本簡介](/help/campaigns/channels-tags-period-costs.md)
    + [活動計畫](/help/programs/event-programs.md)
    + 預設計畫 {#default-programs}
       + [建立和測量預設程式](/help/programs/create-and-measure-default-programs.md)
@@ -95,6 +99,7 @@ ht-degree: 9%
    + [存取您的Sales Insight Actions執行個體](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [設定銷售活動記錄至 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 潛在客戶與資料管理 {#lead-and-data-management}
+   + [瞭解得分](/help/lead-and-data-management/understanding-scoring.md)
    + [銷售機會/個人評分](/help/lead-and-data-management/lead-scoring-learn.md)
    + [銷售機會/個人評分逐步說明](/help/lead-and-data-management/lead-scoring-watch.md)
    + [訂閱中心](/help/lead-and-data-management/subscription-center-learn.md)
@@ -121,7 +126,7 @@ ht-degree: 9%
 + 報告與分析 {#reporting}
    + [重要報表](/help/reporting/key-reports.md)
 + 整合 {#integrations}
-   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hant)
+   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API說明 — 如何在變數中設定存取權杖](/help/integrations/api-set-access-token-variable.md)
    + [如何使用REST API和權杖在Marketo Engage中觸發Smart Campaign](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重複專案 {#manage-duplicates}
