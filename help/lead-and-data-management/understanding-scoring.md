@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何指派評分給您的人員/銷售機會，以評估他們對您的內容的參與。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463247/?learn=on&enablevpops&captions=chi_hant)

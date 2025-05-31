@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何透過智慧清單使用簡單篩選器尋找特定的人員群組。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463214/?learn=on&enablevpops&captions=chi_hant)
