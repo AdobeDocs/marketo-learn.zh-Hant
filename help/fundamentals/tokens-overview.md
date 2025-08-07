@@ -20,4 +20,4 @@ ht-degree: 0%
 
 代號是可提取個人化資料的變數，用於Smart Campaign流程步驟、電子郵件、登陸頁面等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470583/?learn=on&enablevpops&captions=chi_hant)
