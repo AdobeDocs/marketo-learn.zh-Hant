@@ -19,4 +19,4 @@ ht-degree: 4%
 
 Assets （例如電子郵件、登陸頁面等）是您在Marketo Engage行銷活動中使用的元件。 瞭解如何使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470558/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470594/?learn=on&enablevpops&captions=chi_hant)

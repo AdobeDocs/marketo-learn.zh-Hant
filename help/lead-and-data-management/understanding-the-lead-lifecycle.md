@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解銷售機會（人員）如何通過其購買者歷程的不同階段前進。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470606/?learn=on&enablevpops&captions=chi_hant)

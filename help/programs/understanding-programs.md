@@ -20,4 +20,4 @@ ht-degree: 27%
 
 計劃代表一項單一行銷計劃。 瞭解如何以各種方式善用這些工具，觸及您的受眾。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470498/?learn=on&enablevpops&captions=chi_hant)
