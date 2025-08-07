@@ -4,7 +4,8 @@ description: 瞭解如何使用REST API在Marketo Engage中觸發Smart Campaign�
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
+exl-id: 46e54729-92ab-4bbb-9877-f762708def67
+source-git-commit: 99058de9712fbebd631215ef15a6df349ca4c3cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -29,9 +30,9 @@ ht-degree: 0%
 
 ## 步驟1：建立Smart Campaign {#step-one}
 
-1. 移至&#x200B;**行銷活動**，並在您的[方案](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}資料夾下，建立名為`Send Webinar Reminder`的新[智慧行銷活動](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}。
+1. 移至&#x200B;**行銷活動**，並在您的[方案](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}資料夾下，建立名為[的新](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}智慧行銷活動`Send Webinar Reminder`。
 
-1. 在&#x200B;**智慧清單**&#x200B;索引標籤中，[新增觸發器](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}以允許透過API呼叫行銷活動：
+1. 在&#x200B;**智慧清單**&#x200B;索引標籤中，[新增觸發器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}以允許透過API呼叫行銷活動：
 
    * 選取&#x200B;**已要求行銷活動**&#x200B;作為觸發器
    * 將&#x200B;**Source**&#x200B;設為`Web Service API`
@@ -40,7 +41,7 @@ ht-degree: 0%
 
 ## 步驟2：定義電子郵件內容 {#step-two}
 
-建立或編輯同時參考個人和[我的Token](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}的[電子郵件資產](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"}。
+建立或編輯同時參考個人和[我的Token](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"}的[電子郵件資產](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}。
 
 >[!NOTE]
 >
@@ -76,13 +77,13 @@ Join here: {{my.JoinLink}}
 
 * `{{my.WebinarTitle}}` — 文字權杖
 * `{{my.JoinLink}}` — 文字權杖
-* `{{my.WebinarImage}}` — 文字權杖（這將用作`<img>`標籤中的`src`）
+* `{{my.WebinarImage}}` — 文字權杖（這將用作`src`標籤中的`<img>`）
 
 ![促銷活動中的我的Token索引標籤](assets/trigger-smart-campaign-rest-api-3.png)
 
 ## 步驟4：設定行銷活動資格規則並啟用行銷活動 {#step-four}
 
-1. 設定[資格規則](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"}，以控制人員執行Smart Campaign的頻率。
+1. 設定[資格規則](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"}，以控制人員執行Smart Campaign的頻率。
 
 1. 設定之後，按一下&#x200B;**啟用**&#x200B;以啟用Smart Campaign接收API觸發的要求。
 
@@ -133,7 +134,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
