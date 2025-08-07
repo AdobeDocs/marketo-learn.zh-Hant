@@ -28,7 +28,7 @@ ht-degree: 9%
    + [移轉至Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [組織新執行個體的最佳實務](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎計畫的最佳實務](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [實作新的執行個體 — 教學課程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [實作新的執行個體 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/experiences-by-you/implementing-new-instance/overview)
    + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hant)
 + 方案與行銷活動 {#programs-and-campaigns}
    + [瞭解計畫](/help/programs/understanding-programs.md)
@@ -137,7 +137,7 @@ ht-degree: 9%
 + 報告與分析 {#reporting}
    + [重要報表](/help/reporting/key-reports.md)
 + 整合 {#integrations}
-   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hant)
    + [API說明 — 如何在變數中設定存取權杖](/help/integrations/api-set-access-token-variable.md)
    + [如何使用REST API和權杖在Marketo Engage中觸發Smart Campaign](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重複專案 {#manage-duplicates}
