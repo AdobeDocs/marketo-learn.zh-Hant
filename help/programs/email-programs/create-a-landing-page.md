@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何在您的電子郵件程式中建立、自訂和核准登陸頁面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470631/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470656/?learn=on&enablevpops&captions=chi_hant)

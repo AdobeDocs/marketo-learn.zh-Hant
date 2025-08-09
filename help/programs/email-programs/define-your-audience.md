@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何使用電子郵件計畫來定義您需要的對象。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470678/?learn=on&enablevpops&captions=chi_hant)

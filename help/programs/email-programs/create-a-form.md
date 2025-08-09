@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何建立並使用表單來擷取潛在客戶/個人資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470632/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470667/?learn=on&enablevpops&captions=chi_hant)

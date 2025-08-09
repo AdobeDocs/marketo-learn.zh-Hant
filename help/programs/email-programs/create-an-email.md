@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何在電子郵件方案中建立、個人化和測試電子郵件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470645/?learn=on&enablevpops&captions=chi_hant)
