@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
+source-git-commit: 9cf0fca2786f14ff1d2f4ddacce8b6f44ca964ca
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 9%
+source-wordcount: '499'
+ht-degree: 12%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 9%
    + [移轉至Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [組織新執行個體的最佳實務](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎計畫的最佳實務](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [實作新的執行個體 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/experiences-by-you/implementing-new-instance/overview)
+   + [實作新的執行個體 — 教學課程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hant)
 + 方案與行銷活動 {#programs-and-campaigns}
    + [瞭解計畫](/help/programs/understanding-programs.md)
    + [瞭解方案和行銷活動](/help/programs/understanding-programs-and-campaigns.md)
    + [瞭解計畫會籍](/help/programs/understanding-program-membership.md)
-   + [瞭解Smart Campaign](/help/campaigns/understanding-smart-campaigns.md)
+   + [了解智慧行銷活動](/help/campaigns/understanding-smart-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
    + [管道、標籤和期間成本簡介](/help/programs/channels-tags-period-costs.md)
    + [活動計畫](/help/programs/event-programs.md)
@@ -42,7 +42,7 @@ ht-degree: 9%
       + [建立和測量預設程式](/help/programs/create-and-measure-default-programs.md)
       + [善用預設程式的彈性](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + 電子郵件程式 {#email-programs}
-      + [建立電子郵件程式](/help/programs/email-programs/create-an-email-program.md)
+      + [建立電子郵件方案](/help/programs/email-programs/create-an-email-program.md)
       + [建立電子郵件](/help/programs/email-programs/create-an-email.md)
       + [定義您的對象](/help/programs/email-programs/define-your-audience.md)
       + [建立登陸頁面](/help/programs/email-programs/create-a-landing-page.md)
@@ -76,7 +76,6 @@ ht-degree: 9%
    + [行動行銷逐步說明](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO與PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO和PPC逐步說明](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [社交行銷](/help/cross-channel-marketing/social-marketing-learn.md)
    + [網頁個人化](/help/cross-channel-marketing/web-personalization-learn.md)
    + [網頁個人化逐步說明](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -120,7 +119,7 @@ ht-degree: 9%
    + [Microsoft Dynamics同步快速入門](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [潛在客戶生命週期](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [潛在客戶生命週期逐步說明](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ 活動 {#events}
++ 事件 {#events}
    + [活動逐步說明](/help/events/events-watch.md)
    + [建立事件程式](/help/events/events-learn.md)
    + [網路研討會](/help/events/webinar-learn.md)
@@ -137,7 +136,7 @@ ht-degree: 9%
 + 報告與分析 {#reporting}
    + [重要報表](/help/reporting/key-reports.md)
 + 整合 {#integrations}
-   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hant)
+   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API說明 — 如何在變數中設定存取權杖](/help/integrations/api-set-access-token-variable.md)
    + [如何使用REST API和權杖在Marketo Engage中觸發Smart Campaign](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重複專案 {#manage-duplicates}
