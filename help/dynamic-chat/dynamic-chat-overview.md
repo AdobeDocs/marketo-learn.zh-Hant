@@ -30,9 +30,9 @@ ht-degree: 14%
 * 設定
    * **[設定並安裝您的聊天機器人](setup.md)**
      *瞭解設定[!UICONTROL Dynamic Chat]訂閱的步驟。*
-   * **[啟用與[!UICONTROL Dynamic Chat]](marketo-integration.md)**的Marketo整合
+   * **[啟用與[!UICONTROL Dynamic Chat]](marketo-integration.md)**&#x200B;的Marketo整合
      *利用Marketo的對話鎖定您的網頁訪客，並透過潛在客戶資訊加以個人化。*
-   * **[新增和管理[!UICONTROL Dynamic Chat]](user-management.md)**的使用者
+   * **[新增和管理[!UICONTROL Dynamic Chat]](user-management.md)**&#x200B;的使用者
      *瞭解如何在[!UICONTROL Dynamic Chat]中新增或管理使用者。*
    * **[代理程式管理](agent-management.md)**
      *瞭解如何管理代理程式。*
@@ -41,7 +41,7 @@ ht-degree: 14%
      *瞭解如何建立對話方塊，以便透過[!UICONTROL Dynamic Chat]快速與您的網路訪客互動。*
    * **[在交談中內嵌PDF](document-cloud-integration.md)**
      *在您於[!UICONTROL Dynamic Chat]中設計的個人化交談中分享PDF檔案。*
-   * **[在資料流Designer](search-in-stream-designer.md)**中搜尋
+   * **[在資料流Designer](search-in-stream-designer.md)**&#x200B;中搜尋
      *快速搜尋可協助您一鍵存取資料流設計工具中的任何卡片。*
    * **[正在擷取推斷的屬性](capture-inferred-attributes.md)**
      *我們可以利用Munchkin ID識別並填入透過Dynamic Chat擷取的每個潛在客戶的推斷屬性。*
