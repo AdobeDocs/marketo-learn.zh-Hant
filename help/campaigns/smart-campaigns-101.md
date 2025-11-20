@@ -12,8 +12,8 @@ exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 33%
+source-wordcount: '123'
+ht-degree: 40%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 33%
 
 Smart Campaigns是Marketo的引擎。 除了使用Smart Campaigns傳送電子郵件和方案之外，您還可以針對各種使用案例使用Smart Campaigns 。 瞭解如何使用Smart Campaigns進行資料標準化和自動化警報。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424492/?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## 其他資源
 
 **檔案：**
 
-* [瞭解Smart Campaign檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=zh-Hant)
+* [瞭解Smart Campaign檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
 **專家客戶部落格：**
 
