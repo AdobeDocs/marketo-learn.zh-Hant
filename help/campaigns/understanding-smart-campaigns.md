@@ -20,4 +20,4 @@ ht-degree: 100%
 
 智慧行銷活動就是 Adobe Marketo Engage 的引擎。您可以利用智慧行銷活動來寄送電子郵件、方案等。進一步了解這些 Marketo 中的重要工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470571/?captions=chi_hant&learn=on&enablevpops)

@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解 Marketo Engage 和 Salesforce 如何共同維持銷售和行銷資料同步。本教學課程將為您逐步示範同步如何運作、設定同步以傳遞正確的資料，以及確保其正常運作所需檢查的重要事項。我們為您提供管理 Salesforce 同步的其他秘訣與技巧，協助您選取要同步的欄位，以及隱藏不再需要的欄位。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426907/?captions=chi_hant&learn=on)
 
 ## 影片中使用的連結
 

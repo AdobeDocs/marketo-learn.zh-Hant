@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解參與度地圖如何提升您的行銷活動速度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423303/?captions=chi_hant&learn=on){transcript=true}
