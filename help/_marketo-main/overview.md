@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # [!DNL Marketo Engage] 教學課程
 
-瀏覽我們的教學課程資料庫，並充分運用 [!DNL Marketo Engage]。 這些教學課程可做為[[!DNL Marketo] 產品文件](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}的補充說明，協助您進一步了解行銷自動化功能。
+瀏覽我們的教學課程資料庫，並充分運用 [!DNL Marketo Engage]。 這些教學課程可做為[[!DNL Marketo] 產品文件](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"}的補充說明，協助您進一步了解行銷自動化功能。
 
 <!-- <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

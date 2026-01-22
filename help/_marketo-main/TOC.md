@@ -29,7 +29,7 @@ ht-degree: 100%
    + [組織新執行個體的最佳做法](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎方案的最佳做法](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [實施新執行個體 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/experiences-by-you/implementing-new-instance/overview)
-   + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hant)
 + 方案與行銷活動 {#programs-and-campaigns}
    + [了解方案](/help/programs/understanding-programs.md)
    + [了解方案和行銷活動](/help/programs/understanding-programs-and-campaigns.md)
@@ -136,7 +136,7 @@ ht-degree: 100%
 + 報告與分析 {#reporting}
    + [重要報告](/help/reporting/key-reports.md)
 + 整合 {#integrations}
-   + [Marketo 與 Real-Time Customer Data Platform 搭配使用](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo 與 Real-Time Customer Data Platform 搭配使用](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hant)
    + [API 說明 - 如何在變數中設定存取權杖](/help/integrations/api-set-access-token-variable.md)
    + [如何使用 REST API 和權杖在 Marketo Engage 中觸發智慧行銷活動](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重複 {#manage-duplicates}
