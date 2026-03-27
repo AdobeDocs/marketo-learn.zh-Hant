@@ -1,25 +1,27 @@
 ---
 title: Marketo Engage 教學課程
-description: 觀看  [!DNL Marketo Engage] 的教學影片。讓您進一步了解如何使用行銷自動化功能等。
+description: 觀看  [!DNL Marketo Engage] 的教學影片。 讓您進一步了解如何使用行銷自動化功能等。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
-workflow-type: ht
-source-wordcount: '161'
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+workflow-type: tm+mt
+source-wordcount: '265'
 ht-degree: 100%
 
 ---
 
 # [!DNL Marketo Engage] 教學課程
 
-瀏覽我們的教學課程資料庫，並充分運用 [!DNL Marketo Engage]。 這些教學課程可做為[[!DNL Marketo] 產品文件](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"}的補充說明，協助您進一步了解行銷自動化功能。
+瀏覽我們的教學課程資料庫，並充分運用 [!DNL Marketo Engage]。 這些教學課程可做為[[!DNL Marketo] 產品文件](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}的補充說明，協助您進一步了解行銷自動化功能。
 
-<!-- <div id="recs-overview-body-1"></div>
+<!-- 
+<div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div> -->
+<div id="recs-overview-body-6"></div> 
+-->
 
 ## 新增功能 {#whats-new}
 

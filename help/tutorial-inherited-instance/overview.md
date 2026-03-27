@@ -8,22 +8,22 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: false
+index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# 稽核繼承Marketo Engage例項的秘訣與技巧 — 教學課程概觀
+# 稽核繼承Marketo Engage例項的秘訣與技巧 — 教學課程概述
 
-*Source：AdobeMarketo Champions*
+*Source： Adobe Marketo Champions*
 
 如果您繼承已由多個人員管理的即時Marketo Engage執行個體，您可能會發現自己對一切似乎不妥當的事情進行心理記錄。 請務必透過分類任務，然後優先處理那些進展很長的任務，來組織清理和最佳化工作。
 
-此「繼承執行個體稽核秘訣和技巧」教學課程源自AdobeMarketo Champions，可為新管理員提供逐步指南。 此教學課程隨附可下載的[稽核檢查清單](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=zh-Hant)和範本，協助您立即開始繼承的執行個體。 觀看教學課程，並從同行的學習中獲得靈感！ 
+此「繼承執行個體稽核秘訣和技巧」教學課程源自Adobe Marketo Champions，可為新管理員提供逐步指引。 此教學課程隨附可下載的[稽核檢查清單](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html)和範本，協助您立即開始繼承的執行個體。 觀看教學課程，並從同行的學習中獲得靈感！ 
 
 ## 主題和您將學到的內容
 
