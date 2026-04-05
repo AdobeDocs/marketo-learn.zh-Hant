@@ -20,4 +20,4 @@ ht-degree: 16%
 
 瞭解如何使用電子郵件計畫快速輕鬆地傳送電子郵件給多個收件者並追蹤其結果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470618/?captions=chi_hant&learn=on&enablevpops)

@@ -22,4 +22,4 @@ ht-degree: 54%
 在四種程式類型中，預設程序最為靈活，您可以發揮創意來建立內容。
 瞭解兩個常見的使用案例：網頁表單和付費媒體產生人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453865?captions=chi_hant&learn=on){transcript=true}

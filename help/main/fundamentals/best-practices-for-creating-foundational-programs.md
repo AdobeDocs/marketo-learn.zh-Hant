@@ -20,7 +20,7 @@ ht-degree: 13%
 
 瞭解四種方案型別、如何匯入方案、銷售機會/個人評分方案以及定義管道標籤。 瞭解常見使用案例和最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432343/?captions=chi_hant&learn=on){transcript=true}
 
 ## 其他資源
 

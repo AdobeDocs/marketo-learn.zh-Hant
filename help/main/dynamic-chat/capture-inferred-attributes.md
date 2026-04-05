@@ -20,7 +20,7 @@ ht-degree: 7%
 
 由於Dynamic Chat使用相同的Adobe Marketo Engage munchkin Cookie，因此我們現在會利用munchkin來識別並填入透過Dynamic Chat擷取的每個人的推斷屬性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436192/?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 ## 更多實用的影片
 

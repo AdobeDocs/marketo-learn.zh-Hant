@@ -20,7 +20,7 @@ ht-degree: 24%
 
 觀看此影片進行基本了解，並建立您的第一項活動計劃。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454005/?captions=chi_hant&learn=on){transcript=true}
 
 ## 其他資源
 

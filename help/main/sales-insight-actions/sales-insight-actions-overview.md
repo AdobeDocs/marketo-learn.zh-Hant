@@ -16,7 +16,7 @@ ht-degree: 0%
 
 透過行銷支援的智慧和參與工具，使用Sales Insight Actions在單一工作流程中加速潛在客戶搜尋工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447256/?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 ## 相關影片
 

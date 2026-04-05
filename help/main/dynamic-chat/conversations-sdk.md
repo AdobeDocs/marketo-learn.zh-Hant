@@ -20,4 +20,4 @@ ht-degree: 7%
 
 將網頁上的任何CTA點按、頁面載入或任何訪客動作轉換為與SDK交談的吸引人交談。 以下是要在網站上實作的逐步指南
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448873/?captions=chi_hant&learn=on)

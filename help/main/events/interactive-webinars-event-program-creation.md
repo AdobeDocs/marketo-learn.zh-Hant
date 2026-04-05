@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何設定活動計劃，以便您在 Marketo Engage 中建立和排程互動式網路研討會活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443423/?captions=chi_hant&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 47%
 
 了解在哪裡可以找到有關已傳遞之互動式網路研討會活動的績效和參與度的詳細資訊。 根據收集的參與見解和意圖，探索以個人化方式細分、評分和培養潛在客戶/參與者的動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447859/?captions=chi_hant&learn=on)

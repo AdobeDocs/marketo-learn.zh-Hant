@@ -16,7 +16,7 @@ ht-degree: 0%
 
 此影片概述如何存取您的[!UICONTROL Sales Insight Actions]帳戶以建立內容、設定帳戶、邀請新使用者等。
 
->[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441594/?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 ## 相關影片
 

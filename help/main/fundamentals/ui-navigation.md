@@ -20,7 +20,7 @@ ht-degree: 1%
 
 瞭解如何導覽使用者介面，並熟悉您的Marketo Engage平台使用方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450437/?captions=chi_hant&learn=on){transcript=true}
 
 ## 其他資源
 

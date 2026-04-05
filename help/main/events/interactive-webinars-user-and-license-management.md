@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解互動式網路研討會的使用者權限，以及互動式網路研討會的授權可用性和使用限制監控。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446127/?captions=chi_hant&learn=on)

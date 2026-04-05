@@ -20,7 +20,7 @@ ht-degree: 8%
 
 現在可檢視您的網站訪客如何與您的對話方塊互動的趨勢。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437711/?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 ## 更多實用的影片
 

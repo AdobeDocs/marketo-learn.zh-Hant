@@ -20,4 +20,4 @@ ht-degree: 36%
 
 方案代表單一行銷計劃。 瞭解如何以各種方式善用這些工具，觸及您的受眾。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470498/?captions=chi_hant&learn=on&enablevpops)

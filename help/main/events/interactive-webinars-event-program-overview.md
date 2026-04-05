@@ -20,4 +20,4 @@ ht-degree: 100%
 
 快速瀏覽互動式網路研討會活動計畫中的各個元素，並了解可以採取的改進措施。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450091/?captions=chi_hant&learn=on)
