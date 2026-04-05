@@ -28,7 +28,7 @@ ht-degree: 3%
 
 閱讀相關的產品指南：
 
-* [報告類型概觀](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [報告類型概觀](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=zh-Hant)
 
 向同儕學習：
 
