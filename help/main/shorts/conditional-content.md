@@ -19,4 +19,4 @@ ht-degree: 14%
 
 瞭解如何動態控制哪些受眾會看到哪些內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481293/?captions=chi_hant&learn=on&enablevpops)
