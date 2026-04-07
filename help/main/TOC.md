@@ -3,17 +3,17 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 22d16ad38bdaa319705cc26ac96056f33c4a255d
+source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 96%
+source-wordcount: '546'
+ht-degree: 95%
 
 ---
 
 
 # [!DNL Marketo Engage] 教學課程 {#tutorials}
 
-+ [[!DNL Marketo Engage] 教學課程](overview.md)
++ [[!DNL Marketo Engage] 教學課程](/help/main/overview.md)
 + 基礎知識 {#fundamentals}
    + [目標與策略](/help/main/fundamentals/goals-and-strategy-learn.md)
    + [組織架構](/help/main/fundamentals/organizational-structure-learn.md)
@@ -29,7 +29,7 @@ ht-degree: 96%
    + [組織新執行個體的最佳做法](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎方案的最佳做法](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [實作新執行個體 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/experiences-by-you/implementing-new-instance/overview)
-   + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hant)
+   + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + 方案與行銷活動 {#programs-and-campaigns}
    + [了解方案](/help/main/programs/understanding-programs.md)
    + [了解方案和行銷活動](/help/main/programs/understanding-programs-and-campaigns.md)
@@ -74,8 +74,6 @@ ht-degree: 96%
    + [表單逐步示範](/help/main/email-marketing/forms-watch.md)
    + [整合行動裝置行銷](/help/main/cross-channel-marketing/mobile-marketing-learn.md)
    + [行動裝置行銷逐步示範](/help/main/cross-channel-marketing/mobile-marketing-watch.md)
-   + [SEO 和 PPC](/help/main/cross-channel-marketing/seo-and-ppc-learn.md)
-   + [SEO 和 PPC 逐步示範](/help/main/cross-channel-marketing/seo-and-ppc-watch.md)
    + [網頁個人化](/help/main/cross-channel-marketing/web-personalization-learn.md)
    + [網頁個人化逐步示範](/help/main/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -136,7 +134,7 @@ ht-degree: 96%
 + 報告與分析 {#reporting}
    + [重要報告](/help/main/reporting/key-reports.md)
 + 整合 {#integrations}
-   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hant)
+   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API 說明 - 如何在變數中設定存取權杖](/help/main/integrations/api-set-access-token-variable.md)
    + [如何使用 REST API 和權杖在 Marketo Engage 中觸發智慧行銷活動](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重複 {#manage-duplicates}
@@ -152,3 +150,6 @@ ht-degree: 96%
    + [自動重複管理第 2 部分](/help/main/managing-duplicates/automate-integration-part-2.md)
    + [簡化重複管理](/help/main/managing-duplicates/simplify-acs.md)
    + [選擇管理重複的最佳策略](/help/main/managing-duplicates/duplicate-strategy.md)
++ 短片 {#shorts}
+   + [電子郵件Designer的AI助理](/help/main/shorts/ai-assistant-email-designer.md)
+
