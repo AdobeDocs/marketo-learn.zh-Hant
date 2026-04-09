@@ -7,9 +7,8 @@ doc-type: Feature Video
 duration: 0
 last-substantial-update: 2025-01-10T00:00:00Z
 jira: KT-16746
-hidefromtoc: true
 exl-id: d23c31e0-8bf5-42d1-a167-6122670068ca
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 
 瞭解如何使用API與Vertify或Workato等iPaaS工具整合，簡化Marketo Engage中的重複專案管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441940/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
