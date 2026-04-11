@@ -29,8 +29,8 @@ ht-degree: 24%
 * [瞭解事件計畫檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=zh-Hant)
 
 觀看其他影片以取得此功能的更多說明：
-* [活動逐步說明](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [網路研討會逐步解說](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [活動逐步說明](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=zh-Hant)
+* [網路研討會逐步解說](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=zh-Hant)
 
 向同儕學習如何使用活動計畫：
 * [專家客戶部落格：活動計畫](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
