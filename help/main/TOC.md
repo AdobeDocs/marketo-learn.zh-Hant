@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
+source-git-commit: a5c3faae17e635dc2a7b5fc802b99b8c54276252
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '545'
 ht-degree: 84%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 84%
    + [組織新執行個體的最佳做法](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎方案的最佳做法](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [實作新執行個體 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/experiences-by-you/implementing-new-instance/overview)
-   + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hant)
+   + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + 方案與行銷活動 {#programs-and-campaigns}
    + [了解方案](/help/main/programs/understanding-programs.md)
    + [了解方案和行銷活動](/help/main/programs/understanding-programs-and-campaigns.md)
@@ -133,7 +133,7 @@ ht-degree: 84%
 + 報告與分析 {#reporting}
    + [重要報告](/help/main/reporting/key-reports.md)
 + 整合 {#integrations}
-   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hant)
+   + [Marketo與Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API 說明 - 如何在變數中設定存取權杖](/help/main/integrations/api-set-access-token-variable.md)
    + [如何使用 REST API 和權杖在 Marketo Engage 中觸發智慧行銷活動](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重複 {#manage-duplicates}
@@ -152,4 +152,5 @@ ht-degree: 84%
 + 短片 {#shorts}
    + [電子郵件設計工具的AI助理](/help/main/shorts/ai-assistant-email-designer.md)
    + [條件式內容](/help/main/shorts/conditional-content.md)
+   + [範本匯入](/help/main/shorts/template-import.md)
 
