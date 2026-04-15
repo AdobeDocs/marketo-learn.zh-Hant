@@ -3,10 +3,10 @@ title: Marketo Engage 教學課程
 description: 觀看  [!DNL Marketo Engage] 的教學影片。 讓您進一步了解如何使用行銷自動化功能等。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
+source-git-commit: ecf4ce8d2f81b04c2eb95ef0d580b0987d71f893
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 73%
+source-wordcount: '216'
+ht-degree: 71%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 73%
 
 ## 新增功能 {#whats-new}
 
-* 電子郵件Designer的[AI助理](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+* [範本匯入](/help/main/shorts/template-import.md)
+  _瞭解如何從傳統編輯器將您現有的電子郵件範本匯入電子郵件Designer，保留您的設計並加速範本的建立……_
+
+* 電子郵件Designer的[AI助理](/help/main/shorts/ai-assistant-email-designer.md)
   _在Marketo Engage Email Designer中使用AI助理協助您建立當代、高效能且直覺式的電子郵件。_
 
-* [條件式內容](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/shorts/conditional-content)
+* [條件式內容](/help/main/shorts/conditional-content.md)
   _瞭解如何動態控制哪些對象可以看到哪些內容。_
-
-* [實作即時聊天的最佳實務](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
-  _了解在 Dynamic Chat 中實施即時聊天功能時應遵循的最佳做法。_
 
 ## 最熱門影片 {#most-popular-videos}
 

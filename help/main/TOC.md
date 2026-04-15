@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
+source-git-commit: a5c3faae17e635dc2a7b5fc802b99b8c54276252
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '545'
 ht-degree: 84%
 
 ---
@@ -152,4 +152,5 @@ ht-degree: 84%
 + 短片 {#shorts}
    + [電子郵件設計工具的AI助理](/help/main/shorts/ai-assistant-email-designer.md)
    + [條件式內容](/help/main/shorts/conditional-content.md)
+   + [範本匯入](/help/main/shorts/template-import.md)
 
