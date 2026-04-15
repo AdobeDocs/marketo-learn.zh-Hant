@@ -3,10 +3,10 @@ title: Marketo Engage 教學課程
 description: 觀看  [!DNL Marketo Engage] 的教學影片。 讓您進一步了解如何使用行銷自動化功能等。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 94%
+source-wordcount: '249'
+ht-degree: 73%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 94%
 
 ## 新增功能 {#whats-new}
 
+* 電子郵件Designer的[AI助理](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+  _在Marketo Engage Email Designer中使用AI助理協助您建立當代、高效能且直覺式的電子郵件。_
+
+* [條件式內容](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/shorts/conditional-content)
+  _瞭解如何動態控制哪些對象可以看到哪些內容。_
+
 * [實作即時聊天的最佳實務](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _了解在 Dynamic Chat 中實施即時聊天功能時應遵循的最佳做法。_
-
-* [互動式網路研討會概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
-  _進一步了解互動式網路研討會，即 Adobe Marketo Engage 內建的網路研討會平台。_
-
-* [移轉至Adobe Identity Management](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _了解如何完成 Adobe Identity Management 遷移，以便開始在中央位置管理使用者的 Adobe Marketo Engage 及其他 Adobe 帳戶與產品。_
 
 ## 最熱門影片 {#most-popular-videos}
 

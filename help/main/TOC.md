@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教學課程
 user-guide-description: Adobe Marketo Engage 的影片和教學課程系列。
 breadcrumb-title: Marketo Engage 教學課程
 auto-video-transcripts: true
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '543'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 84%
    + [權杖概觀](/help/main/fundamentals/tokens-overview.md)
    + [使用權杖進行個人化](/help/main/personalization/personalize-with-tokens.md)
    + [方案與行銷活動](/help/main/fundamentals/programs-and-campaigns.md)
-   + [遷移至 Adobe Identity Management](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
    + [組織新執行個體的最佳做法](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [建立基礎方案的最佳做法](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [實作新執行個體 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/experiences-by-you/implementing-new-instance/overview)
