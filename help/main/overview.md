@@ -12,7 +12,7 @@ ht-degree: 73%
 
 # [!DNL Marketo Engage] 教學課程
 
-瀏覽我們的教學課程資料庫，並充分運用 [!DNL Marketo Engage]。 這些教學課程可做為[[!DNL Marketo] 產品文件](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}的補充說明，協助您進一步了解行銷自動化功能。
+瀏覽我們的教學課程資料庫，並充分運用 [!DNL Marketo Engage]。 這些教學課程可做為[[!DNL Marketo] 產品文件](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"}的補充說明，協助您進一步了解行銷自動化功能。
 
 <!-- 
 <div id="recs-overview-body-1"></div>
@@ -25,10 +25,10 @@ ht-degree: 73%
 
 ## 新增功能 {#whats-new}
 
-* 電子郵件Designer的[AI助理](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+* 電子郵件Designer的[AI助理](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
   _在Marketo Engage Email Designer中使用AI助理協助您建立當代、高效能且直覺式的電子郵件。_
 
-* [條件式內容](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+* [條件式內容](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/shorts/conditional-content)
   _瞭解如何動態控制哪些對象可以看到哪些內容。_
 
 * [實作即時聊天的最佳實務](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
