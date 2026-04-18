@@ -20,4 +20,4 @@ ht-degree: 8%
 
 瞭解如何將您現有的電子郵件範本從傳統編輯器匯入電子郵件Designer，保留您的設計並加速範本建立。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483501/?captions=chi_hant&learn=on&enablevpops)
