@@ -5,14 +5,47 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-source-git-commit: 98e4cfe72cc7dfe0158f49c910d263d8e4671297
+TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '6064'
+source-wordcount: 6064
 ht-degree: 2%
 
 ---
@@ -92,7 +125,7 @@ ht-degree: 2%
 | 2 | **正在測試** | 是否已跨裝置測試？ 瀏覽器？ 它是否能呈現整潔且運作正常？ | **是：** <br>如果您無法以「是」來回答，您應該跨裝置和瀏覽器測試此專案。 |  |
 | 3 | **資料** | 如果行銷活動中有表單，該表單是否已測試？ 所有觸發程式是否都如預期般流程？ 所有表單欄位都正確對應嗎？ 在檢視過人員記錄的活動記錄（而不只是欄位）後，您能證明這一點嗎？ | **是：** <br>如果您無法以「是」來回答，您應該測試這個。 | [將表單欄位設定為隱藏](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=zh-Hant){target="_blank"}<br><br> [設定隱藏的表單欄位值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=zh-Hant){target="_blank"} |
 | 4 | **追蹤** | 如果您的行銷活動中已有表單，是否有用來追蹤提交來源的隱藏UTM欄位？ 這些經過測試了嗎？ | **是或否：**&#x200B;如果您回答「否」，請瞭解您追蹤將人員導向此表單的來源的能力有限。 | [反向連結引數](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=zh-Hant#referrer-parameter){target="_blank"} |
-| 5 | **GDPR/CASL法規遵循** | <li>如果透過表單擷取資料，選擇加入是否符合您的公司政策？ <li>您提供集合陳述式連同有效的隱私權原則連結嗎？ | **是：** <br>瞭解您的相關法規遵循環境：如果您無法以「是」回答此問題，您必須更新「隱私權原則」區段以確保其法規遵循。**如果您不清楚，請向您的法律團隊尋求適當的建議。** | [隱私權管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hant){target="_blank"} |
+| 5 | **GDPR/CASL法規遵循** | <li>如果透過表單擷取資料，選擇加入是否符合您的公司政策？ <li>您提供集合陳述式連同有效的隱私權原則連結嗎？ | **是：** <br>瞭解您的相關法規遵循環境：如果您無法以「是」回答此問題，您必須更新「隱私權原則」區段以確保其法規遵循。 **如果您不清楚，請向您的法律團隊尋求適當的建議。** | [隱私權管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hant){target="_blank"} |
 | 6 | **Google Analytics整合** | 您的Web Personalization是否已與Google Analytics整合？ | **是或否：**<br>&#x200B;如果回答否，請瞭解您追蹤哪些網頁個人化影響的能力有限。 | 在Google中[個人化的再行銷](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.html?lang=zh-Hant){target="_blank"} |
 | 7 | **網頁區段** | <li>所選區段合適嗎，是否適用於正確的網域？ <li>區段是否會傳送至Google Analytics？ | **是：** <br>如果您無法以「是」來回答，則必須更新它。 | [網頁區段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/web-segments.html?lang=zh-Hant){target="_blank"}<br><br>[尋找使用特定區段的網頁行銷活動](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.html?lang=zh-Hant){target="_blank"} |
 
@@ -121,7 +154,7 @@ ht-degree: 2%
 | 2 | **設計** | 表單品牌的設計一致嗎？ | **是：** <br>如果您無法以「是」回答這個問題，則可能是因為您有正確的原因，或您必須更新CSS才能使其成為品牌產品。 |  |
 | 3 | **資料流程** | 所有資料都會如預期般對應至欄位嗎？ 您是否已檢查測試記錄的活動記錄來證明這一點？ | **是：** <br>如果您無法以「是」來回答，則應修正並測試對應。 | [尋找人員的活動記錄](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=zh-Hant){target="_blank"} |
 | 4 | **追蹤** | 隱藏UTM欄位是否可追蹤提交至此表單的來源？ 這些經過測試了嗎？ | **是或否：** <br>如果回答否，請瞭解您追蹤將人們導向此表單的來源的能力有限。 | [將表單欄位設定為隱藏](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=zh-Hant){target="_blank"}<br><br>[設定隱藏的表單欄位值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=zh-Hant){target="_blank"} |
-| 5 | **GDPR/CASL法規遵循** | 如果資料是透過表單擷取，是否符合選擇加入規範，以及您是否提供具有正常隱私權原則連結的收集宣告？ | **是：** <br>瞭解您的相關規範環境：如果您無法以「是」回答此問題，則必須更新以確保其符合規範。**如果您不知道，請尋求適當的建議。** | [隱私權管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hant){target="_blank"} |
+| 5 | **GDPR/CASL法規遵循** | 如果資料是透過表單擷取，是否符合選擇加入規範，以及您是否提供具有正常隱私權原則連結的收集宣告？ | **是：** <br>瞭解您的相關規範環境：如果您無法以「是」回答此問題，則必須更新以確保其符合規範。 **如果您不清楚，請尋求適當的建議。** | [隱私權管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hant){target="_blank"} |
 
 >[!TAB 智慧行銷活動]
 
@@ -168,7 +201,7 @@ ht-degree: 2%
 | 2 | **寄件者名稱** | 您是否已與品牌擁有者進行核實，並確認該名稱可安全使用？ | **是：** <br>如果您無法以「是」來回答，請先檢查再繼續。 | [編輯您的電子郵件標頭](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=zh-Hant){target="_blank"}<br><br>[變更預設值，從電子郵件和標籤](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.html?lang=zh-Hant){target="_blank"} |
 | 3 | **回覆地址** | 您是否已洽詢品牌擁有者，確認其使用安全？ | **是：** <br>如果您無法以「是」來回答，請先檢查再繼續。 | [編輯您的電子郵件標題](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=zh-Hant){target="_blank"} |
 | 4 | **預覽文字設定** | 您是否根據最佳實務來設定預先標題(即 80個字元、完整句子、前置載入有價值的位元)？ | **是：** <br><br>如果您無法以「是」來回答，請先更新，然後再繼續。 | [電子郵件設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html?lang=zh-Hant){target="_blank"} |
-| 5 | **複製校樣** | 是否有任何拼字或文法問題？<br>這個語調是否適合您的品牌？ | **是：** <br>如果您無法以「是」回答問題，請先修正後再繼續。 |  |
+| 5 | **複製校樣** | 是否有任何拼字或文法問題？ <br>這個語調是否適合您的品牌？ | **是：** <br>如果您無法以「是」回答問題，請先修正後再繼續。 |  |
 | 6 | **可掃描性** | 掃描時您能理解這封電子郵件中的關鍵資訊嗎？ | **是或不適用：** <br>電子郵件最佳實務建議，請務必確保掃描時能夠理解您電子郵件的主要訊息。 如果您選擇不套用此作法，請注意，這可能會影響您電子郵件的效能。 |  |
 | 7 | **取消訂閱** | 電子郵件是否有功能性的取消訂閱連結（您已測試）？ | **是或不適用：**<br>&#x200B;只有當電子郵件是[作業性](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html?lang=zh-Hant){target="_blank"}時，「不適用」才應該有效。 請確定不需要取消訂閱，如有疑問，納入會更安全。 | [瞭解取消訂閱](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hant){target="_blank"} |
 | 8 | **文字版本** | <li>您是否已建立電子郵件的文字版本？ <li>您是否傳送文字版本的測試給自己？ | **是：**<br>&#x200B;如果您無法以「是」來回答，您應該先測試再繼續。 |  |
@@ -185,7 +218,7 @@ ht-degree: 2%
 | 19 | **A/B和Champ/Challenger測試** | 您是否在電子郵件上執行任何優勝者/挑戰者測試？ | **是或否：**<br>&#x200B;如果您未進行任何測試，請思考您是否可能錯失瞭解對象詳細資訊的機會。 | [建立A/B測試](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=zh-Hant)<br><br>[新增電子郵件冠軍/挑戰者](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=zh-Hant){target="_blank"} |
 | 20 | **使用者端測試** | 您是否透過使用者端測試軟體執行電子郵件？<li>您確定主要電子郵件使用者端有任何顯示問題嗎？ <li>您是否更正或記錄為非緊急範本修正？ <li>您是否已找出任何載入速度問題並嘗試加以改善？<li>您確定有任何主旨列/預覽行問題嗎？ 問題解決了嗎？ | **是或不適用：**<br>&#x200B;如果您無法以「是」回應（除非您沒有測試軟體），這應在傳送前完成。 | 使用者端測試軟體的範例包括Litmus或Acid上的Email或[Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=zh-Hant)<br><br>[收件匣追蹤器教學課程](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=zh-Hant){target="_blank"} |
 | 21 | **垃圾郵件測試** | 您是否透過垃圾郵件程式執行電子郵件？<li>是否有任何醒目提示的封鎖名單標幟？<li>您識別任何收件匣位置/電子郵件使用者端標幟嗎？ <li>您是否曾尋找潛在原因並嘗試加以解決？ | **是或不適用：**<br>&#x200B;如果您無法以「是」回應（除非您沒有測試軟體），這應在傳送前完成。 | 如果您將[Marketo的收件匣追蹤器功能](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=zh-Hant){target="_blank"}包含在合約中，或使用Litmus或Acid上的電子郵件等工具，請針對此使用。 |
-| 22 | **其他分析** | 電子郵件是否包含其他Analytics程式碼？ | **是或不適用：**<br>       如果您無法以「是」回答（除非您沒有其他分析軟體），則請在傳送前完成此動作。 |  |
+| 22 | **其他分析** | 電子郵件是否包含其他Analytics程式碼？ | **是或不適用：**<br>&#x200B;如果您無法以「是」回應（除非您沒有其他分析軟體），則請在傳送前完成此作業。 |  |
 
 >[!TAB 最終檢查]
 
@@ -204,9 +237,9 @@ ht-degree: 2%
 
 ### 作者
 
-**寬限布萊伯納**
+**Grace Brebner**
 Marketo王(2021)
-*Digital Pi， LLC - A Merkle公司的客戶策略總監*
+*APAC地區客戶策略總監，Digital Pi， LLC - A Merkle公司*
 
 ![寬限布萊伯納](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
 
