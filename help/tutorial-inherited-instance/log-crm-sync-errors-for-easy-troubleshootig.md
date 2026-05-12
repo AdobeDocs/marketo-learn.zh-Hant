@@ -5,21 +5,27 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 index: true
 exl-id: 3b7e6127-28fd-4dce-915d-5af9bcce984b
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/JM26ZReC9P8rKS8IqjIV5TKLxT0xInUHysdM7zo0LzM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: 460
 ht-degree: 0%
 
 ---
 
 # 記錄CRM同步錯誤，以輕鬆進行疑難排解
 
-身為Marketo Engage管理員，檢查執行個體是否與CRM同步應該是您[每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的關鍵部分。 雖然[通知區段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=zh-Hant){target="_blank"} （可在Marketo Engage介面的右上角找到）是您開始尋找和調查頻繁同步問題的地方，但有一個專業秘訣可幫助您以有條理的方式管理執行個體的健康狀況。 Adobe Marketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤的記錄，以便更輕鬆進行疑難排解。
+身為Marketo Engage管理員，檢查執行個體是否與CRM同步應該是您[每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的關鍵部分。 雖然[通知區段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} （可在Marketo Engage介面的右上角找到）是您開始尋找和調查頻繁同步問題的地方，但有一個專業秘訣可幫助您以有條理的方式管理執行個體的健康狀況。 Adobe Marketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤的記錄，以便更輕鬆進行疑難排解。
 
 ![同步處理錯誤索引標籤的熒幕擷圖](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -33,7 +39,7 @@ ht-degree: 0%
 
 **步驟1：**&#x200B;移至Marketo Engage中的&#x200B;*[!UICONTROL Admin]區段*。 在「*[!UICONTROL Integration]*」下，根據您使用的[!DNL CRM]，按一下「*[!DNL Salesforce]*」、「*[!DNL Microsoft Dynamics]*」或「*[!DNL Veeva]*」，然後按一下「*[!UICONTROL Sync Errors]*」索引標籤。
 
-**步驟2：**&#x200B;您可以透過[!UICONTROL Filter]面板[&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=zh-Hant#filter-sync-errors){target="_blank"}，選擇將錯誤的記錄匯出為 [!DNL CSV] 檔案。 如果您只有幾個小時，直接從&#x200B;*[!UICONTROL Sync Errors]*&#x200B;索引標籤複製和貼上將是最好的方法。
+**步驟2：**&#x200B;您可以透過[!UICONTROL Filter]面板](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}，選擇將錯誤的記錄[匯出為 [!DNL CSV] 檔案。 如果您只有幾個小時，直接從&#x200B;*[!UICONTROL Sync Errors]*&#x200B;索引標籤複製和貼上將是最好的方法。
 
 **步驟3：**&#x200B;記下發生錯誤的日期。
 

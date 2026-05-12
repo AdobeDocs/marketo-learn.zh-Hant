@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: 959
 ht-degree: 1%
 
 ---
@@ -29,7 +35,7 @@ ht-degree: 1%
 
 1. 以可擴充的方式更輕鬆地訓練內部使用者。
 2. 在[!DNL Marketo Engage]中長期更有效地建置。
-3. 維持執行個體的健康與衛生，以節省您花費數小時探索電子郵件、[稽核軌跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=zh-Hant)及[活動記錄](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=zh-Hant)以取得內容的時間。
+3. 維持執行個體的健康與衛生，以節省您花費數小時探索電子郵件、[稽核軌跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)及[活動記錄](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)以取得內容的時間。
 4. 如果您的團隊遇到任何人員流動，請節省將[!DNL Marketo Engage]知識轉移給新[!DNL Marketo Engage]管理員的時間。
 
 ## [!DNL Marketo Engage]治理指南101
@@ -51,7 +57,7 @@ ht-degree: 1%
 
 ### 步驟2：識別要包含在您的[!DNL Marketo Engage]檔案與[!DNL Changelogs]中的元素
 
-格式因雲端型平台和共用檔案而異。 您可以設計符合組織需求的格式。[以下是簡單的檔案和變更記錄檔Excel範本](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，涵蓋您可以開始使用的重要元素。 這些功能包括：
+格式因雲端型平台和共用檔案而異。 您可以設計符合組織需求的格式。 [這裡有簡單的檔案與變更記錄檔Excel範本](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，涵蓋您可以開始使用的重要元素。 這些功能包括：
 
 * 文件
    * 計畫範本名稱
@@ -100,7 +106,7 @@ ht-degree: 1%
 **更新您現有的檔案：**
 讓您的檔案保持在最新狀態非常重要。 如果在過去3年內未修改檔案，請預留時間在稽核執行個體時修訂檔案。
 
-**共用和訓練：**
+**共用與訓練：**
 與相關團隊成員分享您的檔案和[!DNL changelog]，並教育他們如何更新這些記錄。
 
 **定期檢閱：**&#x200B;預先排程整年檢閱和維護時間，以包含任何新變更、最佳化或調整。
