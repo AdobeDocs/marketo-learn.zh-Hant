@@ -19,4 +19,4 @@ ht-degree: 0%
 
 進一步瞭解情境以及大量處理重複專案合併背後的理由。 將重複記錄匯出至Excel以進行有效率的資料清理和合併，以開始大量合併。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439236/?captions=chi_hant&learn=on&enablevpops)
