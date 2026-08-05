@@ -19,4 +19,4 @@ ht-degree: 23%
 
 探索重複專案具有針對性的案例，例如多人家庭或法規遵循需求，以及如何有效管理重複專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441949/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442056/?captions=chi_hant&learn=on&enablevpops)
