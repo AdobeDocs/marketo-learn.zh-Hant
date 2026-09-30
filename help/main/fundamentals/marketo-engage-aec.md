@@ -16,4 +16,4 @@ ht-degree: 0%
 
 瞭解如何從Adobe Experience Cloud存取Marketo Engage並快速瀏覽介面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429413t1/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443694/?captions=chi_hant&learn=on&enablevpops)
