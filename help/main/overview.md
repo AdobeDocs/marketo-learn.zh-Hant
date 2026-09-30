@@ -1,18 +1,16 @@
 ---
 title: Marketo Engage 教學課程
-description: 觀看  [!DNL Marketo Engage] 的教學影片。 讓您進一步了解如何使用行銷自動化功能等。
+description: 觀看[!DNL Marketo Engage]的教學課程影片。 讓您進一步了解如何使用行銷自動化功能等。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ecf4ce8d2f81b04c2eb95ef0d580b0987d71f893
+source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 71%
-
+source-wordcount: '217'
+ht-degree: 69%
 ---
-
 # [!DNL Marketo Engage] 教學課程
 
-瀏覽我們的教學課程資料庫，並充分運用 [!DNL Marketo Engage]。 這些教學課程可做為[[!DNL Marketo] 產品文件](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"}的補充說明，協助您進一步了解行銷自動化功能。
+瀏覽我們的教學課程資料庫，並充分運用 [!DNL Marketo Engage]。 這些教學課程可做為[[!DNL Marketo] 產品文件](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}的補充說明，協助您進一步了解行銷自動化功能。
 
 <!-- 
 <div id="recs-overview-body-1"></div>
@@ -25,11 +23,11 @@ ht-degree: 71%
 
 ## 新增功能 {#whats-new}
 
+* Adobe Experience Cloud上的[Marketo Engage](/help/main/fundamentals/marketo-engage-aec.md)
+  _瞭解如何從Adobe Experience Cloud存取Marketo Engage，並快速瀏覽介面。_
+
 * [範本匯入](/help/main/shorts/template-import.md)
   _瞭解如何從傳統編輯器將您現有的電子郵件範本匯入電子郵件Designer，保留您的設計並加速範本的建立……_
-
-* 電子郵件Designer的[AI助理](/help/main/shorts/ai-assistant-email-designer.md)
-  _在Marketo Engage Email Designer中使用AI助理協助您建立當代、高效能且直覺式的電子郵件。_
 
 * [條件式內容](/help/main/shorts/conditional-content.md)
   _瞭解如何動態控制哪些對象可以看到哪些內容。_
