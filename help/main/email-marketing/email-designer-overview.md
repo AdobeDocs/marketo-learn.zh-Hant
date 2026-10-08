@@ -28,4 +28,4 @@ ht-degree: 25%
 
 進一步瞭解進階Marketo Engage電子郵件Designer。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504158/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504180/?captions=chi_hant&learn=on&enablevpops)

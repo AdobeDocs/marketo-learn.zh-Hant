@@ -31,7 +31,7 @@ ht-degree: 94%
 
 智慧行銷活動就是 Marketo 的引擎。 除了使用智慧行銷活動寄送電子郵件和方案，您還可以將智慧行銷活動用於各種使用情境中。 了解如何使用 Smart Campaigns 進行資料標準化和自動提醒。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424492/?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 
 ## 其他資源
