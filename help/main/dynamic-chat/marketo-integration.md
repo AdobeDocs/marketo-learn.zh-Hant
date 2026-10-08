@@ -7,13 +7,26 @@ jira: KT-9697
 thumbnail: 340260.jpeg
 exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
 feature: Dynamic Chat
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 4%
-
 ---
-
 # 啟用與[!UICONTROL Dynamic Chat]的Marketo整合
 
 [!UICONTROL Dynamic Chat]原生整合至[!DNL Marketo Engage]，讓您能夠使用聊天機器人對話的內容，重新鎖定潛在客戶目標或對潛在客戶評分。

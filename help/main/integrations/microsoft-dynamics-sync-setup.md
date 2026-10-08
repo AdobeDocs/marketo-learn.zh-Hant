@@ -7,17 +7,38 @@ topic: Integrations
 role: Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-10-17T00:00:00Z
+last-substantial-update: 2023-10-17T00:00:00.000Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
 exl-id: f93a08c0-ca4f-454b-b03e-6c5ceb353ec5
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ced46716-1611-5972-ad23-93d0944e2543
+    internal-label: Marketing
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 20%
-
 ---
-
 # 開始使用 Microsoft Dynamics 同步
 
 瞭解Microsoft Dynamics 365同步如何運作，並正確設定設定，以允許兩個系統相互溝通。 本教學課程將逐步引導您瞭解同步如何運作、下載Marketo銷售機會管理(MLM)解決方案、安裝伺服器對伺服器連線的MLM解決方案，以及連線兩個系統。 我們也會分享其他驗證同步、限制同步處理記錄數以及預估同步處理時間的秘訣與技巧，協助您設定Microsoft Dynamics同步處理。
