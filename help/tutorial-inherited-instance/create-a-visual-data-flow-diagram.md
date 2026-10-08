@@ -10,26 +10,33 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+TQID: 'https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 605
+source-wordcount: '633'
 ht-degree: 1%
-
 ---
-
 # 建立視覺化資料流程圖以瞭解您的行銷技術棧疊
 
 作為管理已經存在多年的[!DNL Marketo Engage]執行個體的管理員，這就像是一項無法稽核並有效清理執行個體的任務。 當Adobe [!DNL Marketo Champion] (2019)，Kelly Jo Horton進入長期建立的執行個體時，她解決這個挑戰的方法是[建立「潛在客戶與資料來源」的圖表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}，以熟悉資料世界。 在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
@@ -38,7 +45,7 @@ ht-degree: 1%
 
 1. **熟悉您從即時執行個體繼承的行銷技術棧疊。** 建議所有行銷作業管理員/平台作業管理員從新公司起步時都進行這項作業。 此建立程式可讓管理員使用者檢視從外部整合傳送到[!DNL Marketo Engage]的資料和活動的完整圖片，並輕鬆疑難排解API錯誤。
 2. **熟悉管理外部整合的關鍵利害關係人。** Kelly Jo Horton用來快速識別利害關係人的一個技巧是參考API使用者清單。
-   1. **導覽至「管理員」區段中的「整合>LaunchPoint」索引標籤。** 深入瞭解如何導覽至「LaunchPoint」標籤： [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hant){target="_blank"}。
+   1. **導覽至「管理員」區段中的「整合>LaunchPoint」索引標籤。** 深入瞭解如何導覽至「LaunchPoint」標籤： [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}。
    2. 在API呼叫資訊區段的「整合>網站服務」標籤中，尋找API使用者的API使用統計資料。 按一下API呼叫號碼，即可檢視每個使用者發出的個別特定呼叫。
 
 ## 如何進行此視覺資料流程圖練習
