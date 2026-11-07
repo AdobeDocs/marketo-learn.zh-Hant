@@ -30,4 +30,4 @@ ht-degree: 0%
 
 隨選網路研討會會擷取並調整已註冊但未參加您的活動的潛在客戶，但您想要透過觀看錄影來取得與活動相關的資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436552/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506213/?captions=chi_hant&learn=on)
